@@ -727,7 +727,13 @@ export default [
     keywords: ['ice cream', 'es krim', 'walls'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Aice',
+        image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      }
+    ]
   },
   {
     name: 'Feast',
@@ -735,7 +741,13 @@ export default [
     keywords: ['ice cream', 'es krim', 'walls'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Aice',
+        image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      }
+    ]
   },
   {
     name: 'Hellmann\'s',
@@ -791,7 +803,13 @@ export default [
     keywords: ['ice cream', 'es krim'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Aice',
+        image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      }
+    ]
   },
   {
     name: 'Jawara',
@@ -812,10 +830,20 @@ export default [
   {
     name: 'Royco',
     image: 'https://homemadeindonesia.com/apihmi/images/datatoko/K7CA07980AB_brg11867.jpg',
-    keywords: ['bumbu', 'penyedap', 'seasoning', 'masakan', 'bahan'],
+    keywords: ['bumbu', 'penyedap', 'seasoning', 'masakan', 'bahan', 'roiko', 'royko'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Sasa',
+        image: 'https://www.sasa.co.id/medias/page_medias/1587245289872613.png'
+      },
+      {
+        name: 'MamaSuka',
+        image: 'https://image1ws.indotrading.com/s3/productimages/webp/co37129/p401406/w425-h425/b7ad8880-a778-4ad7-8885-c19529c0b933w.jpg'
+      }
+    ]
   },
   {
     name: 'Maggi',
@@ -839,7 +867,13 @@ export default [
     keywords: ['ice cream', 'es krim', 'walls'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Aice',
+        image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      }
+    ]
   },
   {
     name: 'Es Krim Walls',
@@ -847,7 +881,13 @@ export default [
     keywords: ['ice cream', 'es krim', 'walls'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Aice',
+        image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      }
+    ]
   },
   {
     name: 'Es Krim Viennetta',
@@ -855,7 +895,13 @@ export default [
     keywords: ['ice cream', 'es krim', 'walls'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Aice',
+        image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      }
+    ]
   },
   {
     name: 'Es Krim Taste Joy',
@@ -863,7 +909,13 @@ export default [
     keywords: ['ice cream', 'es krim', 'walls'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Aice',
+        image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      }
+    ]
   },
   {
     name: 'Es Krim Paddle Pop',
@@ -871,7 +923,13 @@ export default [
     keywords: ['ice cream', 'es krim', 'walls'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Aice',
+        image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      }
+    ]
   },
   {
     name: 'Lays',

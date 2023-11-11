@@ -31,31 +31,37 @@ const product_shown = computed(() => {
 </script>
 
 <template>
-  <main class="text-center my-10 md:mt-16 px-14 md:px-20">
+  <main class="text-center my-10 md:mt-16 px-3 md:px-20">
     <img src="https://bdsmovement.net/sites/all/themes/bds/logo.png" alt="BDS Movement" class="w-64 mx-auto">
-    <p class="mt-10 mx-16 md:mx-24 text-lg">Gerakan Boikot, Divestasi, Sanksi (BDS) berupaya mengakhiri dukungan internasional terhadap penindasan Israel terhadap warga Palestina dan menekan Israel agar mematuhi hukum internasional.</p>
-    <input type="text" v-model="search_keyword" class="w-full shadow-sm border-[1px] text-center py-3 my-10 rounded-full" placeholder="Cari Nama Produk Dalam Daftar Boikot">
-    <div class="rounded-3xl border-[1px] py-4 px-10 shadow">
-      <table class="w-full align-middle">
-        <tr v-for="product in product_shown">
-          <td>
-            <!-- <div class="rounded-xl w-24 h-24 bg-center bg-contain bg-no-repeat border-[1px] mr-5" :style="`background-image: url(${product.image})`"></div>     -->
-            <v-lazy-image src-placeholder="https://cdn-images-1.medium.com/max/80/1*xjGrvQSXvj72W4zD6IWzfg.jpeg" :src="product.image" class="rounded-xl w-24 h-24 bg-center bg-contain bg-no-repeat border-[1px] mr-5" :alt="product.name"/>
-          </td>
-          <td class="text-left text-xl font-semibold text-gray-700">
-            {{ product.name }}
-          </td>
-          <td class="text-left text-lg text-gray-600">
-            {{ product.kind }}
-          </td>
-          <td class="text-right">
-           <div class="flex items-center justify-end space-x-3">
+    <p class="mt-10 text-left text-xs mx-0 sm:mx-10 md:mx-24 md:text-lg">Gerakan Boikot, Divestasi, Sanksi (BDS) berupaya mengakhiri dukungan internasional terhadap penindasan Israel terhadap warga Palestina dan menekan Israel agar mematuhi hukum internasional.</p>
+    <input type="text" v-model="search_keyword" class="w-full shadow-sm border-[1px] text-center px-5 py-3 my-4 md:my-10 rounded-full" placeholder="Cari Nama Produk Dalam Daftar Boikot">
+    <div class="rounded-3xl border-[1px] py-4 px-10 shadow overflow-hidden">
+      <div class="overflow-x-scroll">
+        <table class="w-full min-w-[700px] align-middle">
+          <tr v-for="product in product_shown">
+            <td class="w-24">
+              <!-- <div class="rounded-xl w-24 h-24 bg-center bg-contain bg-no-repeat border-[1px] mr-5" :style="`background-image: url(${product.image})`"></div>     -->
+              <v-lazy-image src-placeholder="https://cdn-images-1.medium.com/max/80/1*xjGrvQSXvj72W4zD6IWzfg.jpeg" :src="product.image" class="rounded-xl max-w-4xl min-w-min w-24 h-24 bg-center bg-contain bg-no-repeat border-[1px] mr-5" :alt="product.name"/>
+            </td>
+            <td class="text-left text-sm pl-5">
+              <div class="font-semibold text-gray-500">Produk</div>
+              <span class="text-800 font-mono text-lg">{{ product.name }}</span>
+            </td>
+            <td class="text-left text-sm pl-5">
+              <div class="font-semibold text-gray-500">Jenis</div>
+              <span class="text-800 text-base font-mono">{{ product.kind }}</span>
+            </td>
+            <td class="text-left text-sm pl-5">
+              <div class="font-semibold text-gray-500">Alternatif</div>
+              <span class="text-800 font-mono whitespace-nowrap text-gray-600">-- coming soon --</span>
+            </td>
+            <!-- <td class="text-right">
+              <div>Perusahaan</div>
               <v-lazy-image v-if="product.company_img" src-placeholder="https://cdn-images-1.medium.com/max/80/1*xjGrvQSXvj72W4zD6IWzfg.jpeg" :src="product.company_img" class="max-h-10 max-w-sm" :alt="product.company"/>
-              <!-- <span class="text-lg text-slate-700 capitalize">{{ product.company }}</span> -->
-            </div>
-          </td>
-        </tr>
-      </table>
+            </td> -->
+          </tr>
+        </table>
+      </div>
     </div>
   </main>
 </template>

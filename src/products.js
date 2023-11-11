@@ -24,6 +24,22 @@ export default [
     company_img: 'data:image/png;base64,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'
   },
   {
+    name: 'Pizza Hut',
+    image: 'https://scontent.fsub6-5.fna.fbcdn.net/v/t39.30808-6/387837704_271091195895606_3280517633839149921_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFnW4V8SGLcKzDcexpJGHb5lN_zCy_lKsiU3_MLL-UqyDL9lVpHIoRlH1B3jSNES_0MHEnGcUURZ9G6kDqZ0zxi&_nc_ohc=mIpCJJjiak0AX_azPT-&_nc_zt=23&_nc_ht=scontent.fsub6-5.fna&oh=00_AfA27luk8geFPL_LthOY7N7HwNSUyFZOnNmgxbObP2Htwg&oe=65550070',
+    keywords: ['makanan', 'cepat', 'saji', 'restoran', 'pizza', 'junk', 'food', 'fast'],
+    kind: 'Restoran',
+    company: 'PT. Sarimelati Kencana Tbk',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pizza_Hut_classic_logo.svg/800px-Pizza_Hut_classic_logo.svg.png'
+  },
+  {
+    name: 'Subway',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2a/Subway_in_Burwood_Plaza.jpg',
+    keywords: ['makanan', 'cepat', 'saji', 'restoran', 'pizza', 'junk', 'food', 'fast'],
+    kind: 'Restoran',
+    company: 'Subway',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Subway_2016_logo.svg/440px-Subway_2016_logo.svg.png'
+  },
+  {
     name: 'McDonald\'s',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png',
     keywords: ['makanan', 'cepat', 'saji', 'restoran', 'burger', 'junk', 'food', 'fast', 'ayam', 'mcd', 'macdonald', 'mac'],
@@ -121,6 +137,22 @@ export default [
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+  },
+  {
+    name: 'Oral-B',
+    image: 'https://static.thcdn.com/images/large/original//productimg/1600/1600/13054470-7224870228460160.jpg',
+    keywords: ['pasta', 'gigi', 'toilet', 'mandi', 'sikat gigi'],
+    kind: 'Perawatan Tubuh',
+    company: 'Procter & Gamble',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png'
+  },
+  {
+    name: 'Sensodyne',
+    image: 'https://m.media-amazon.com/images/I/61eKAumo-5L.jpg',
+    keywords: ['pasta', 'gigi', 'toilet', 'mandi', 'pasta gigi'],
+    kind: 'Perawatan Tubuh',
+    company: 'Glaxo Smith Kline',
+    company_img: 'https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/GSK_logo_2014.svg/1200px-GSK_logo_2014.svg.png'
   },
   {
     name: 'Dove',
@@ -258,7 +290,7 @@ export default [
   {
     name: 'Molto',
     image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2022/1/5/640ed06b-9b18-4b68-8d32-efd8499879d4.jpg',
-    keywords: ['pewangi', 'pakaian', 'cuci', 'baju', 'setrika', 'pelembut'],
+    keywords: ['pewangi', 'pakaian', 'cuci', 'baju', 'setrika', 'pelembut', 'detergen', 'softener', 'sabun cuci pakaian'],
     kind: 'Pembersih',
     company: 'Unilever',
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
@@ -266,10 +298,18 @@ export default [
   {
     name: 'Rinso',
     image: 'https://assets.klikindomaret.com/products/20071828/20071828_2.jpg',
-    keywords: ['pembersih', 'pakaian', 'cuci', 'baju', 'setrika', 'pelembut', 'noda', 'rose'],
+    keywords: ['pembersih', 'pakaian', 'cuci', 'baju', 'setrika', 'pelembut', 'noda', 'rose', 'detergen', 'sabun cuci pakaian'],
     kind: 'Pembersih',
     company: 'Unilever',
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+  },
+  {
+    name: 'Vanish',
+    image: 'https://chemiaonline.pl/5242-large_default/vanish-odplamiacz-w-plynie-saszetka-100ml.jpg',
+    keywords: ['pembersih', 'pakaian', 'cuci', 'baju', 'setrika', 'pelembut', 'noda', 'rose', 'detergen', 'sabun cuci pakaian', 'pemutih baju'],
+    kind: 'Pembersih',
+    company: 'Reckitt Benckiser',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Reckitt_%282021%29.svg/800px-Reckitt_%282021%29.svg.png'
   },
   {
     name: 'Sunlight',

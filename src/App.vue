@@ -37,11 +37,12 @@ const product_shown = computed(() => {
     <input type="text" v-model="search_keyword" class="w-full shadow-sm border-[1px] text-center px-5 py-3 my-4 md:my-10 rounded-full" placeholder="Cari Nama Produk Dalam Daftar Boikot">
     <div class="rounded-3xl border-[1px] py-4 px-10 shadow overflow-hidden">
       <div class="overflow-x-scroll">
-        <table class="w-full min-w-[700px] align-middle">
+        <h3 class="sm:hidden">Scroll ke kanan untuk melihat keterangan lebih lanjut</h3>
+        <table class="w-full min-w-[600px] align-middle">
           <tr v-for="product in product_shown">
             <td class="w-24">
               <!-- <div class="rounded-xl w-24 h-24 bg-center bg-contain bg-no-repeat border-[1px] mr-5" :style="`background-image: url(${product.image})`"></div>     -->
-              <v-lazy-image src-placeholder="https://cdn-images-1.medium.com/max/80/1*xjGrvQSXvj72W4zD6IWzfg.jpeg" :src="product.image" class="rounded-xl max-w-4xl min-w-min w-24 h-24 bg-center bg-contain bg-no-repeat border-[1px] mr-5" :alt="product.name"/>
+              <v-lazy-image src-placeholder="https://cdn-images-1.medium.com/max/80/1*xjGrvQSXvj72W4zD6IWzfg.jpeg" :src="product.image" class="rounded-xl max-w-[4rem] bg-center bg-contain bg-no-repeat border-[1px] mr-5" :alt="product.name"/>
             </td>
             <td class="text-left text-sm pl-5">
               <div class="font-semibold text-gray-500">Produk</div>

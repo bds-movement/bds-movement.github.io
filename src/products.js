@@ -149,7 +149,7 @@ export default [
   {
     name: 'Oral-B',
     image: 'https://static.thcdn.com/images/large/original//productimg/1600/1600/13054470-7224870228460160.jpg',
-    keywords: ['pasta', 'gigi', 'toilet', 'mandi', 'sikat gigi'],
+    keywords: ['pasta', 'gigi', 'toilet', 'mandi', 'sikat gigi', 'p&g', 'pg', 'png'],
     kind: 'Perawatan Tubuh',
     company: 'Procter & Gamble',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png'
@@ -237,7 +237,7 @@ export default [
   {
     name: 'Head & shoulders',
     image: 'https://filebroker-cdn.lazada.co.id/kf/S3512ad6bd45d48b995636048f018df44g.jpg',
-    keywords: ['shampo', 'sampo', 'toilet', 'mandi', 'sabun', 'rambut'],
+    keywords: ['shampo', 'sampo', 'toilet', 'mandi', 'sabun', 'rambut', 'p&g', 'pg', 'png'],
     kind: 'Perawatan Tubuh',
     company: 'Procter & Gamble',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png'
@@ -277,7 +277,7 @@ export default [
   {
     name: 'Pampers',
     image: 'https://cdnapi.sooplai.com/media/products/173394/diap-pamp-022c-1-5.jpg',
-    keywords: ['popok', 'celana', 'bayi', 'anak', 'toilet'],
+    keywords: ['popok', 'celana', 'bayi', 'anak', 'toilet', 'p&g', 'pg', 'png'],
     kind: 'Perawatan Tubuh',
     company: 'Procter & Gamble',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png'

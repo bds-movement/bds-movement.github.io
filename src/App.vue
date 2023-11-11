@@ -31,9 +31,10 @@ const product_shown = computed(() => {
 </script>
 
 <template>
-  <main class="text-center my-10 md:mt-32 px-14 md:px-20">
-    <h1 class="text-6xl font-mono my-10">BDS Movement</h1>
-    <input type="text" v-model="search_keyword" class="w-full shadow-sm border-[1px] text-center py-3 my-10 rounded-full" placeholder="Cari Nama Produk">
+  <main class="text-center my-10 md:mt-16 px-14 md:px-20">
+    <img src="https://bdsmovement.net/sites/all/themes/bds/logo.png" alt="BDS Movement" class="w-64 mx-auto">
+    <p class="mt-10 mx-16 md:mx-24 text-lg">Gerakan Boikot, Divestasi, Sanksi (BDS) berupaya mengakhiri dukungan internasional terhadap penindasan Israel terhadap warga Palestina dan menekan Israel agar mematuhi hukum internasional.</p>
+    <input type="text" v-model="search_keyword" class="w-full shadow-sm border-[1px] text-center py-3 my-10 rounded-full" placeholder="Cari Nama Produk Dalam Daftar Boikot">
     <div class="rounded-3xl border-[1px] py-4 px-10 shadow">
       <table class="w-full align-middle">
         <tr v-for="product in product_shown">

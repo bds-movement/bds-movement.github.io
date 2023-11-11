@@ -853,4 +853,12 @@ export default [
     company: 'Carefour',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Carrefour_logo.svg/220px-Carrefour_logo.svg.png'
   },
+  {
+    name: '20 Fox',
+    image: 'https://yt3.googleusercontent.com/ytc/APkrFKYsxcT2lRG8mlglQs5wozvrhHZf6Jzws62DF4ZgnA=s900-c-k-c0x00ffffff-no-rj',
+    keywords: ['20fox', 'fox', 'hiburan', 'tayangan', 'tv', 'televisi', 'bioskop', 'movie'],
+    kind: 'Hiburan',
+    company: 'Twentieth Century Studios, Inc',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/20th_Century_Studios_%282020%29.svg/1200px-20th_Century_Studios_%282020%29.svg.png'
+  },
 ]

@@ -117,7 +117,7 @@ export default [
   {
     name: 'L\'ORÉAL',
     image: 'https://cdn.infobrand.id/images/img/posts/2018/08/01/loral-semakin-mengukuhkan-diri-sebagai-perusahaan-kosmetik-1-di-dunia-dengan-berbagai-inovasi-terbaru.jpg',
-    keywords: ['sabun', 'shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'skin', 'care', 'kecantinkan'],
+    keywords: ['sabun', 'shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'skin', 'care', 'kecantinkan', 'loreal'],
     kind: 'Perawatan Tubuh',
     company: 'L\'Oréal Group',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/400px-L%27Or%C3%A9al_logo.svg.png'
@@ -516,6 +516,22 @@ export default [
     company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
   },
   {
+    name: 'Corn Flakes',
+    image: 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/nestle_nestle-corn-flakes-cereal-275-gr_full03.jpg',
+    keywords: ['sereal', 'sarapan', 'coco', 'crunch', 'jagung', 'susu'],
+    kind: 'Makanan & minuman',
+    company: 'Nestle',
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+  },
+  {
+    name: 'Nesquik',
+    image: 'https://lzd-img-global.slatic.net/g/p/22b4c17349989cfd4396b459eb09caaf.jpg_960x960q80.jpg_.webp',
+    keywords: ['sereal', 'sarapan', 'coco', 'crunch', 'jagung', 'susu', 'nesquick'],
+    kind: 'Makanan & minuman',
+    company: 'Nestle',
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+  },
+  {
     name: 'Cerelac',
     image: 'https://www.cerelac.co.id/sites/default/files/2023-01/20221208_WL_NI_CERELAC%20HOMESTYLE%20RAINBOW%20BUBUR%20BERAS%20MERAH%20BROKOLI%20120G_A1_0001_500x500pxl.png',
     keywords: ['sereal', 'sarapan', 'bubur', 'bayi', 'beras', 'wortel', 'brokoli'],
@@ -538,6 +554,14 @@ export default [
     kind: 'Makanan & minuman',
     company: 'Nestle',
     company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+  },
+  {
+    name: 'Kraft',
+    image: 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/MTA-21675207/kraft_kraft_quick_melt_165gr_full02_b2e2ebqo.jpeg',
+    keywords: ['keju', 'craft', 'cheddar', 'cedar', 'chedar'],
+    kind: 'Makanan & minuman',
+    company: 'PT Kraft Ultrajaya Indonesia',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Kraft_foods_logo2012.png'
   },
   {
     name: 'Nestle Goodnes',

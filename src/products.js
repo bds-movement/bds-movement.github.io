@@ -123,6 +123,14 @@ export default [
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/400px-L%27Or%C3%A9al_logo.svg.png'
   },
   {
+    name: 'Maybeline',
+    image: 'https://d2qjkwm11akmwu.cloudfront.net/products/804927_21-6-2021_11-32-26-1665805827.webp',
+    keywords: ['bibir', 'makeup', 'make up', 'wajah', 'kecantikan', 'wanita'],
+    kind: 'Perawatan Tubuh',
+    company: 'L\'Oréal Group',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/400px-L%27Or%C3%A9al_logo.svg.png'
+  },
+  {
     name: 'L\'ORÉAL',
     image: 'https://cdn.infobrand.id/images/img/posts/2018/08/01/loral-semakin-mengukuhkan-diri-sebagai-perusahaan-kosmetik-1-di-dunia-dengan-berbagai-inovasi-terbaru.jpg',
     keywords: ['sabun', 'shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'skin', 'care', 'kecantinkan', 'loreal'],
@@ -293,7 +301,15 @@ export default [
   {
     name: 'JOHNSON\'S Baby Cologne',
     image: 'https://img.ws.mms.shopee.co.id/id-11134207-7qukw-lk1wkfx7eslf4f',
-    keywords: ['popok', 'bayi', 'anak', 'perawatan'],
+    keywords: ['popok', 'bayi', 'anak', 'perawatan', 'jnj', 'j&j'],
+    kind: 'Perawatan Tubuh',
+    company: 'Johnson & Johnson',
+    company_img: null
+  },
+  {
+    name: 'Clean & Clear',
+    image: 'https://img.ws.mms.shopee.co.id/id-11134207-7qukw-lk1wkfx7eslf4f',
+    keywords: ['perawatan kulit', 'perawatan wajah', 'acne', 'foam', 'jnj', 'j&j'],
     kind: 'Perawatan Tubuh',
     company: 'Johnson & Johnson',
     company_img: null
@@ -434,6 +450,14 @@ export default [
     kind: 'Makanan & minuman',
     company: 'The Coca-Cola Company',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Coca-Cola_Company_%282020%29.svg/1280px-The_Coca-Cola_Company_%282020%29.svg.png'
+  },
+  {
+    name: 'Pepsi',
+    image: 'https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/294/2023/09/06/Pepsi-1565286811.jpg',
+    keywords: ['karbonasi', 'cocacola', 'cola', 'koka', 'soda', 'minuman', 'bersoda', 'pepsico'],
+    kind: 'Makanan & minuman',
+    company: 'PepsiCo',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PepsiCo_logo.svg/2500px-PepsiCo_logo.svg.png'
   },
   {
     name: 'Fanta',
@@ -818,5 +842,15 @@ export default [
     kind: 'Makanan & minuman',
     company: 'Mondelēz International',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mondelez_International.svg/2880px-Mondelez_International.svg.png'
+  },
+
+  // COMPANY
+  {
+    name: 'Carefour',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Carrefour_logo.svg/220px-Carrefour_logo.svg.png',
+    keywords: ['carefur', 'carefour', 'karfur', 'carefur'],
+    kind: 'Toko',
+    company: 'Carefour',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Carrefour_logo.svg/220px-Carrefour_logo.svg.png'
   },
 ]

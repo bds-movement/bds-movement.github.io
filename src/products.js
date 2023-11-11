@@ -401,7 +401,13 @@ export default [
     keywords: ['bango', 'kecap', 'dapur'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Kecap Sedap',
+        image: 'https://cdn.idntimes.com/content-images/post/20200617/foto-4-kecap-manis-kedelai-hitam-special-kemasan-pouch-550ml-afeadcac912beff2b144d660d94e2d4e.jpg'
+      }
+    ]
   },
   {
     name: 'Buavita',
@@ -497,7 +503,33 @@ export default [
     keywords: ['air', 'putih', 'mineral', 'bening', 'aqua'],
     kind: 'Makanan & minuman',
     company: 'Nestle',
-    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Aslah',
+        image: 'https://aslah.id/wp-content/uploads/2022/12/Aslah-removebg-preview.png'
+      },
+      {
+        name: 'Warih',
+        image: 'https://airsehatwarih.com/foto_slide/13tagline_big.png'
+      },
+      {
+        name: 'Santri',
+        image: 'https://opop.jatimprov.go.id/images/mart/2021/12/31/271/4693AIR-MINERAL-SANTRIsh.jpg'
+      },
+      {
+        name: 'Le Minerale',
+        image: 'https://img.inews.co.id/media/600/files/inews_new/2022/09/18/produk_le_minerale.jpg'
+      },
+      {
+        name: 'Club',
+        image: 'https://arti-assets.sgp1.digitaloceanspaces.com/renyswalayanku/products/eee6266e-e5b9-4c13-903a-9c35197b6079.jpg'
+      },
+      {
+        name: 'Cleo',
+        image: 'https://cleopurewater.com/wp-content/uploads/2023/05/all-produk-cleo.png'
+      }
+    ]
   },
   {
     name: 'Aqua',
@@ -505,7 +537,33 @@ export default [
     keywords: ['air', 'putih', 'mineral', 'bening', 'aqua', 'amdk', 'galon'],
     kind: 'Makanan & minuman',
     company: 'Danone',
-    company_img: 'https://images.bisnis.com/posts/2021/08/04/1425865/danone.jpg'
+    company_img: 'https://images.bisnis.com/posts/2021/08/04/1425865/danone.jpg',
+    alternatives: [
+      {
+        name: 'Aslah',
+        image: 'https://aslah.id/wp-content/uploads/2022/12/Aslah-removebg-preview.png'
+      },
+      {
+        name: 'Warih',
+        image: 'https://airsehatwarih.com/foto_slide/13tagline_big.png'
+      },
+      {
+        name: 'Santri',
+        image: 'https://opop.jatimprov.go.id/images/mart/2021/12/31/271/4693AIR-MINERAL-SANTRIsh.jpg'
+      },
+      {
+        name: 'Le Minerale',
+        image: 'https://img.inews.co.id/media/600/files/inews_new/2022/09/18/produk_le_minerale.jpg'
+      },
+      {
+        name: 'Club',
+        image: 'https://arti-assets.sgp1.digitaloceanspaces.com/renyswalayanku/products/eee6266e-e5b9-4c13-903a-9c35197b6079.jpg'
+      },
+      {
+        name: 'Cleo',
+        image: 'https://cleopurewater.com/wp-content/uploads/2023/05/all-produk-cleo.png'
+      }
+    ]
   },
   {
     name: 'Ades',
@@ -513,7 +571,33 @@ export default [
     keywords: ['air', 'putih', 'mineral', 'bening', 'aqua', 'amdk', 'galon'],
     kind: 'Makanan & minuman',
     company: 'PT Coca-Cola Bottling Indonesia',
-    company_img: 'data:image/png;base64,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'
+    company_img: 'data:image/png;base64,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',
+    alternatives: [
+      {
+        name: 'Aslah',
+        image: 'https://aslah.id/wp-content/uploads/2022/12/Aslah-removebg-preview.png'
+      },
+      {
+        name: 'Warih',
+        image: 'https://airsehatwarih.com/foto_slide/13tagline_big.png'
+      },
+      {
+        name: 'Santri',
+        image: 'https://opop.jatimprov.go.id/images/mart/2021/12/31/271/4693AIR-MINERAL-SANTRIsh.jpg'
+      },
+      {
+        name: 'Le Minerale',
+        image: 'https://img.inews.co.id/media/600/files/inews_new/2022/09/18/produk_le_minerale.jpg'
+      },
+      {
+        name: 'Club',
+        image: 'https://arti-assets.sgp1.digitaloceanspaces.com/renyswalayanku/products/eee6266e-e5b9-4c13-903a-9c35197b6079.jpg'
+      },
+      {
+        name: 'Cleo',
+        image: 'https://cleopurewater.com/wp-content/uploads/2023/05/all-produk-cleo.png'
+      }
+    ]
   },
   {
     name: 'Vit',
@@ -521,7 +605,33 @@ export default [
     keywords: ['air', 'putih', 'mineral', 'bening', 'aqua', 'amdk', 'galon', 'vit'],
     kind: 'Makanan & minuman',
     company: 'Danone',
-    company_img: 'https://images.bisnis.com/posts/2021/08/04/1425865/danone.jpg'
+    company_img: 'https://images.bisnis.com/posts/2021/08/04/1425865/danone.jpg',
+    alternatives: [
+      {
+        name: 'Aslah',
+        image: 'https://aslah.id/wp-content/uploads/2022/12/Aslah-removebg-preview.png'
+      },
+      {
+        name: 'Warih',
+        image: 'https://airsehatwarih.com/foto_slide/13tagline_big.png'
+      },
+      {
+        name: 'Santri',
+        image: 'https://opop.jatimprov.go.id/images/mart/2021/12/31/271/4693AIR-MINERAL-SANTRIsh.jpg'
+      },
+      {
+        name: 'Le Minerale',
+        image: 'https://img.inews.co.id/media/600/files/inews_new/2022/09/18/produk_le_minerale.jpg'
+      },
+      {
+        name: 'Club',
+        image: 'https://arti-assets.sgp1.digitaloceanspaces.com/renyswalayanku/products/eee6266e-e5b9-4c13-903a-9c35197b6079.jpg'
+      },
+      {
+        name: 'Cleo',
+        image: 'https://cleopurewater.com/wp-content/uploads/2023/05/all-produk-cleo.png'
+      }
+    ]
   },
   {
     name: 'Mizone',

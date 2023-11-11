@@ -115,6 +115,14 @@ export default [
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
   },
   {
+    name: 'Garnier',
+    image: 'https://o-cdn-cas.sirclocdn.com/parenting/images/produk-garnier.width-800.format-webp.webp',
+    keywords: ['sabun', 'shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'skin care', 'body care', 'body wash', 'serum', 'loreal'],
+    kind: 'Perawatan Tubuh',
+    company: 'L\'Oréal',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/400px-L%27Or%C3%A9al_logo.svg.png'
+  },
+  {
     name: 'L\'ORÉAL',
     image: 'https://cdn.infobrand.id/images/img/posts/2018/08/01/loral-semakin-mengukuhkan-diri-sebagai-perusahaan-kosmetik-1-di-dunia-dengan-berbagai-inovasi-terbaru.jpg',
     keywords: ['sabun', 'shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'skin', 'care', 'kecantinkan', 'loreal'],
@@ -261,7 +269,7 @@ export default [
   {
     name: 'Vaseline',
     image: 'https://res.cloudinary.com/dk0z4ums3/image/upload/v1691007505/attached_image/vaseline-uv-extra-brightening-glutaglow-untuk-kulit-tubuh-yang-sehat.jpg',
-    keywords: ['skincare', 'kulit', 'badan', 'tubuh'],
+    keywords: ['skincare', 'kulit', 'badan', 'tubuh', 'vaselin', 'pelembut kulit'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
@@ -562,6 +570,14 @@ export default [
     kind: 'Makanan & minuman',
     company: 'PT Kraft Ultrajaya Indonesia',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Kraft_foods_logo2012.png'
+  },
+  {
+    name: 'Kellogg\'s',
+    image: 'https://lzd-img-global.slatic.net/g/p/fbedce5915c7d8c83b644e64352d17cf.jpg_720x720q80.jpg',
+    keywords: ['jagung', 'sereal', 'sarapan', 'kellog', 'kellogs', 'cord flakes'],
+    kind: 'Makanan & minuman',
+    company: 'Kellogg Company',
+    company_img: 'https://www.unleashingourpotential.com/media/shtb4f4i/kellanova_logo_1000x254-1.png?width=500&height=127.06983441324695'
   },
   {
     name: 'Nestle Goodnes',

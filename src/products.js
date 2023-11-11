@@ -139,6 +139,14 @@ export default [
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
   },
   {
+    name: 'Listerin',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhlHJPhadVZD4Ls_9oVo3JgLdxv0z7ycodvA&usqp=CAU',
+    keywords: ['pasta', 'gigi', 'toilet', 'mandi', 'perawatan', 'kumur'],
+    kind: 'Perawatan Tubuh',
+    company: 'PT Pfizer Indonesia',
+    company_img: 'https://gwejqeb2o8ze.cdn.shift8web.ca/wp-content/uploads/2022/04/Pfiziper-Logo.jpg'
+  },
+  {
     name: 'Oral-B',
     image: 'https://static.thcdn.com/images/large/original//productimg/1600/1600/13054470-7224870228460160.jpg',
     keywords: ['pasta', 'gigi', 'toilet', 'mandi', 'sikat gigi'],
@@ -227,6 +235,14 @@ export default [
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
   },
   {
+    name: 'Head & shoulders',
+    image: 'https://filebroker-cdn.lazada.co.id/kf/S3512ad6bd45d48b995636048f018df44g.jpg',
+    keywords: ['shampo', 'sampo', 'toilet', 'mandi', 'sabun', 'rambut'],
+    kind: 'Perawatan Tubuh',
+    company: 'Procter & Gamble',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png'
+  },
+  {
     name: 'St. Ives',
     image: 'https://d2qjkwm11akmwu.cloudfront.net/products/318868_21-6-2021_11-36-35-1665809011.webp',
     keywords: ['sabun', 'mandi', 'toilet', 'kulit', 'wajah', 'skincare'],
@@ -265,6 +281,14 @@ export default [
     kind: 'Perawatan Tubuh',
     company: 'Procter & Gamble',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png'
+  },
+  {
+    name: 'JOHNSON\'S Baby Cologne',
+    image: 'https://img.ws.mms.shopee.co.id/id-11134207-7qukw-lk1wkfx7eslf4f',
+    keywords: ['popok', 'bayi', 'anak', 'perawatan'],
+    kind: 'Perawatan Tubuh',
+    company: 'Johnson & Johnson',
+    company_img: null
   },
 
 
@@ -321,7 +345,7 @@ export default [
   },
   {
     name: 'Super Pell',
-    image: 'https://gratisongkir-storage.com/products/900x900/uumdYV5Bdoqw.jpg',
+    image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/66717c8a-263f-4fe8-ab77-77309071161a.jpg',
     keywords: ['wangi', 'cair', 'pel', 'lantai', 'dapur'],
     kind: 'Pembersih',
     company: 'Unilever',
@@ -574,10 +598,18 @@ export default [
   {
     name: 'Sariwangi',
     image: 'https://ecommerce.svara.id/wp-content/uploads/2023/07/sari_wangi_teh_sariwangi_celup_isi_50_kantong_kotak_sari_wangi_full01_jutvc3wn.webp',
-    keywords: ['tea', 'teh'],
+    keywords: ['tea', 'teh', 'kemasan', 'cepat saji'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+  },
+  {
+    name: 'Nestea',
+    image: 'https://www.ubuy.co.id/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFQVTlNZ1g4QUwuX1NMMTUwMF8uanBn.jpg',
+    keywords: ['tea', 'teh', 'kemasan', 'cepat saji'],
+    kind: 'Makanan & minuman',
+    company: 'Nestle',
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
   },
   {
     name: 'Magnum',
@@ -670,7 +702,7 @@ export default [
   {
     name: 'Lays',
     image: 'https://awsimages.detik.net.id/community/media/visual/2021/02/18/lays-doritos-dan-cheetos-akan-berhenti-produksi-milenial-please-jangan-pergi-1_43.jpeg?w=600&q=90',
-    keywords: ['keripik', 'kue', 'jajan', 'cemilan', 'singkong', 'kentang', 'ciki', 'chiki', 'kering'],
+    keywords: ['keripik', 'kue', 'jajan', 'cemilan', 'singkong', 'kentang', 'ciki', 'chiki', 'kering', 'snack', 'snek'],
     kind: 'Makanan & minuman',
     company: 'Indofood Fritolay',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Indofood_CBP.svg/2880px-Indofood_CBP.svg.png'
@@ -678,7 +710,7 @@ export default [
   {
     name: 'Pringles',
     image: 'https://ik.imagekit.io/dcjlghyytp1/a4d171bb8fbc175bf529c3cc4d8a515a?tr=f-auto,w-360',
-    keywords: ['keripik', 'kue', 'jajan', 'cemilan', 'singkong', 'kentang', 'ciki', 'chiki', 'kering'],
+    keywords: ['keripik', 'kue', 'jajan', 'cemilan', 'singkong', 'kentang', 'ciki', 'chiki', 'kering', 'snack', 'snek'],
     kind: 'Makanan & minuman',
     company: 'Super Food Technology',
     company_img: null
@@ -686,7 +718,7 @@ export default [
   {
     name: 'Cheetos',
     image: 'https://holamart.co.id/wp-content/uploads/2020/07/ct-jb-15.jpg',
-    keywords: ['keripik', 'kue', 'jajan', 'cemilan', 'singkong', 'kentang', 'jagung', 'ciki', 'chiki', 'kering'],
+    keywords: ['keripik', 'kue', 'jajan', 'cemilan', 'singkong', 'kentang', 'jagung', 'ciki', 'chiki', 'kering', 'snack', 'snek'],
     kind: 'Makanan & minuman',
     company: 'Indofood Fritolay',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Indofood_CBP.svg/2880px-Indofood_CBP.svg.png'
@@ -694,10 +726,34 @@ export default [
   {
     name: 'Oreo',
     image: 'https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/9/12/f6bc5cc0-947b-495c-9714-618812d04162.jpg.webp',
-    keywords: ['coklat', 'kue', 'jajan', 'cream', 'vanilla', 'pink', 'strawbery'],
+    keywords: ['coklat', 'kue', 'jajan', 'cream', 'vanilla', 'pink', 'strawbery', 'snack', 'snek'],
     kind: 'Makanan & minuman',
     company: 'Mondelēz International',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mondelez_International.svg/2880px-Mondelez_International.svg.png'
+  },
+  {
+    name: 'Biskuat',
+    image: 'https://image.dailymartazzahra.com/s3/productimages/webp/co37129/p670284/w600-h600/57a11565-581b-4575-aca5-b18bb8a9f179.jpg',
+    keywords: ['coklat', 'kue', 'jajan', 'snack', 'snek'],
+    kind: 'Makanan & minuman',
+    company: 'Mondelēz Indonesia',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mondelez_International.svg/360px-Mondelez_International.svg.png'
+  },
+  {
+    name: 'M&Ms',
+    image: 'https://www.qcnews.com/wp-content/uploads/sites/109/2023/01/MMsAP22021645371457.jpg?w=1280',
+    keywords: ['coklat', 'kue', 'jajan', 'snack', 'snek', 'permen', 'mms'],
+    kind: 'Makanan & minuman',
+    company: 'Mars Incorporated',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mars_Incorporated_2019_logo.svg/440px-Mars_Incorporated_2019_logo.svg.png'
+  },
+  {
+    name: 'Twix',
+    image: 'https://down-id.img.susercontent.com/file/4d5f9751bb197f8ec5607596f1ef84c0',
+    keywords: ['coklat', 'kue', 'jajan', 'cream', 'cemilan', 'snack', 'snek'],
+    kind: 'Makanan & minuman',
+    company: 'Mars Incorporated',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mars_Incorporated_2019_logo.svg/440px-Mars_Incorporated_2019_logo.svg.png'
   },
   {
     name: 'Dunkin',

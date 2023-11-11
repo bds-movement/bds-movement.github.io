@@ -2,7 +2,6 @@
 import { computed, ref } from 'vue';
 import products from './products';
 import VLazyImage from "v-lazy-image";
-import * as dayjs from 'dayjs'
 
 const search_keyword = ref('')
 const product_shown = computed(() => {
@@ -35,7 +34,7 @@ const product_shown = computed(() => {
   <main class="text-center my-10 md:mt-16 px-3 md:px-20">
     <img src="https://bdsmovement.net/sites/all/themes/bds/logo.png" alt="BDS Movement" class="w-64 mx-auto">
     <p class="mt-10 text-left text-xs mx-0 sm:mx-10 md:mx-24 md:text-lg">Gerakan Boikot, Divestasi, Sanksi (BDS) berupaya mengakhiri dukungan internasional terhadap penindasan Israel terhadap warga Palestina dan menekan Israel agar mematuhi hukum internasional.</p>
-    <h4 class="text-red-600 font-mono font-semibold">Update Terakhir : {{ dayjs().format('YYYY-MM-DD HH:mm:ss') }} WIB</h4>
+    <!-- <h4 class="text-red-600 font-mono font-semibold">Update Terakhir : {{ dayjs().format('YYYY-MM-DD HH:mm:ss') }} WIB</h4> -->
     <input type="text" v-model="search_keyword" class="w-full shadow-sm border-[1px] text-center px-5 py-3 my-4 md:my-10 rounded-full" placeholder="Cari Nama Produk Dalam Daftar Boikot">
     <div class="rounded-3xl border-[1px] py-4 px-10 shadow overflow-hidden">
       <div class="overflow-x-scroll">

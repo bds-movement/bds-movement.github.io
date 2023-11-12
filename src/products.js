@@ -135,10 +135,16 @@ export default [
   {
     name: 'Clear',
     image: 'https://s0.bukalapak.com/img/03116228692/s-463-463/93581796_282a_4490_85c4_c99ba54ad8ee.jpg.webp',
-    keywords: ['sabun', 'shampo', 'kulit', 'badan', 'tubuh', 'mandi'],
+    keywords: ['sabun', 'shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'sampo', 'rambut'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Zinc',
+        image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      }
+    ]
   },
   {
     name: 'Garnier',
@@ -396,7 +402,13 @@ export default [
     keywords: ['shampo', 'sampo', 'toilet', 'mandi'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Zinc',
+        image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      }
+    ]
   },
   {
     name: 'Head & shoulders',
@@ -404,7 +416,13 @@ export default [
     keywords: ['shampo', 'sampo', 'toilet', 'mandi', 'sabun', 'rambut', 'p&g', 'pg', 'png'],
     kind: 'Perawatan Tubuh',
     company: 'Procter & Gamble',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png',
+    alternatives: [
+      {
+        name: 'Zinc',
+        image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      }
+    ]
   },
   {
     name: 'St. Ives',
@@ -434,7 +452,13 @@ export default [
     keywords: ['shampo', 'sampo', 'toilet', 'mandi', 'rambut', 'rontok'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Zinc',
+        image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      }
+    ]
   },
   {
     name: 'Vaseline',
@@ -450,7 +474,13 @@ export default [
     keywords: ['shampo', 'sabun', 'mandi', 'bayi', 'anak', 'toilet'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Kodomo',
+        image: 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//101/MTA-55444871/kodomo_kodomo_shampoo_and_conditioner_2in1_100ml_bpom_original_-_shampo_anak_full02_lz61fc9u.jpg'
+      }
+    ]
   },
   {
     name: 'Pampers',
@@ -579,7 +609,13 @@ export default [
     keywords: ['wangi', 'cair', 'pel', 'lantai', 'dapur'],
     kind: 'Pembersih',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Porstex',
+        image: 'https://image1ws.indotrading.com/s3/productimages/webp/co37129/p426477/w425-h425/0902e6b3-75a4-4b7a-b8f6-10818a431935w.jpg'
+      }
+    ]
   },
   {
     name: 'Vixal',
@@ -587,7 +623,13 @@ export default [
     keywords: ['wangi', 'cair', 'pel', 'lantai', 'dapur', 'toilet', 'kerak'],
     kind: 'Pembersih',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Porstex',
+        image: 'https://image1ws.indotrading.com/s3/productimages/webp/co37129/p426477/w425-h425/0902e6b3-75a4-4b7a-b8f6-10818a431935w.jpg'
+      }
+    ]
   },
   {
     name: 'Wipol',
@@ -595,7 +637,13 @@ export default [
     keywords: ['wangi', 'cair', 'pel', 'lantai', 'dapur', 'toilet', 'kerak'],
     kind: 'Pembersih',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Porstex',
+        image: 'https://image1ws.indotrading.com/s3/productimages/webp/co37129/p426477/w425-h425/0902e6b3-75a4-4b7a-b8f6-10818a431935w.jpg'
+      }
+    ]
   },
 
 

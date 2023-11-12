@@ -21,7 +21,13 @@ export default [
     keywords: ['makanan', 'cepat', 'saji', 'restoran', 'burger', 'junk', 'food', 'fast', 'ayam'],
     kind: 'Restoran',
     company: 'KFC',
-    company_img: 'data:image/png;base64,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'
+    company_img: 'data:image/png;base64,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',
+    alternatives: [
+      {
+        name: 'Richeese Factory',
+        image: 'https://binus.ac.id/malang/communication/wp-content/uploads/sites/3/2022/12/im-richeese.jpg'
+      }
+    ]
   },
   {
     name: 'Pizza Hut',
@@ -45,7 +51,13 @@ export default [
     keywords: ['makanan', 'cepat', 'saji', 'restoran', 'burger', 'junk', 'food', 'fast', 'ayam', 'mcd', 'macdonald', 'mac'],
     kind: 'Restoran',
     company: 'McDonald\'s Corporation',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png',
+    alternatives: [
+      {
+        name: 'Richeese Factory',
+        image: 'https://binus.ac.id/malang/communication/wp-content/uploads/sites/3/2022/12/im-richeese.jpg'
+      }
+    ]
   },
   {
     name: 'Starbucks',
@@ -53,7 +65,13 @@ export default [
     keywords: ['makanan', 'cepat', 'saji', 'restoran', 'kopi', 'teh'],
     kind: 'Restoran',
     company: 'Starbucks Corporation',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png',
+    alternatives: [
+      {
+        name: 'Point Coffee',
+        image: 'https://scontent.fsub6-4.fna.fbcdn.net/v/t1.6435-9/69410460_353312865599560_4058974798888304640_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c2f564&_nc_eui2=AeEqVmKdkOztUwqslGcpdO1Q__qu0nB8kuL_-q7ScHyS4t0yAMsmDtzB4cDHY_1CUiHc6a1qxSHkG-8ZPSt0H2ML&_nc_ohc=hWk8tluYcVYAX9jhil9&_nc_ht=scontent.fsub6-4.fna&oh=00_AfBAOm8JesQPRIsvsxOj6xnrbxL-bBemOe0_ecXcD87JOA&oe=65776D49'
+      }
+    ]
   },
 
 
@@ -125,6 +143,10 @@ export default [
       {
         name: 'Kahf',
         image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
+      },
+      {
+        name: 'Wardah',
+        image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
       }
     ]
   },
@@ -190,7 +212,13 @@ export default [
     keywords: ['sabun', 'shamo', 'tubuh', 'rambut', 'toilet', 'badan', 'mandi'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Nuvo',
+        image: 'https://wingscorp.com/wp-content/uploads/2020/11/Logo-Nuvo-Biru.png'
+      }
+    ]
   },
   {
     name: 'Glow & Lovely',
@@ -206,7 +234,13 @@ export default [
     keywords: ['sabun', 'mandi', 'badan', 'toilet', 'kulit'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Nuvo',
+        image: 'https://wingscorp.com/wp-content/uploads/2020/11/Logo-Nuvo-Biru.png'
+      }
+    ]
   },
   {
     name: 'Lux',
@@ -214,7 +248,13 @@ export default [
     keywords: ['sabun', 'mandi', 'badan', 'toilet', 'kulit'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Nuvo',
+        image: 'https://wingscorp.com/wp-content/uploads/2020/11/Logo-Nuvo-Biru.png'
+      }
+    ]
   },
   {
     name: 'Love Beauty and Planet',
@@ -235,6 +275,10 @@ export default [
       {
         name: 'Kahf',
         image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
+      },
+      {
+        name: 'Wardah',
+        image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
       }
     ]
   },
@@ -249,6 +293,10 @@ export default [
       {
         name: 'Kahf',
         image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
+      },
+      {
+        name: 'Wardah',
+        image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
       }
     ]
   },
@@ -258,7 +306,17 @@ export default [
     keywords: ['sabun', 'mandi', 'toilet', 'kulit', 'wajah', 'skincare'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Kahf',
+        image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
+      },
+      {
+        name: 'Wardah',
+        image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
+      }
+    ]
   },
   {
     name: 'Sunsilk',
@@ -282,7 +340,17 @@ export default [
     keywords: ['sabun', 'mandi', 'toilet', 'kulit', 'wajah', 'skincare'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Kahf',
+        image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
+      },
+      {
+        name: 'Wardah',
+        image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
+      }
+    ]
   },
   {
     name: 'Tresemme',

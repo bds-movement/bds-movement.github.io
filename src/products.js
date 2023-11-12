@@ -531,7 +531,13 @@ export default [
     keywords: ['pembersih', 'pakaian', 'cuci', 'baju', 'setrika', 'pelembut', 'noda', 'rose', 'detergen', 'sabun cuci pakaian'],
     kind: 'Pembersih',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Daia',
+        image: 'https://down-id.img.susercontent.com/file/d06898d887e2d0fb7b43630050c5c2fa'
+      }
+    ]
   },
   {
     name: 'Vanish',

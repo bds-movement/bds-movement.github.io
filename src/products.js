@@ -869,7 +869,13 @@ export default [
     keywords: ['susu', 'anak', 'balita', 'batita', 'bayi', 'formula', 'sufor'],
     kind: 'Makanan & minuman',
     company: 'Nestle',
-    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Primagro',
+        image: 'https://www.frisianflag.com/storage/app/media/primagro-1-madu-150.png'
+      }
+    ]
   },
   {
     name: 'Nutren Diab',

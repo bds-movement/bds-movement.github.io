@@ -1407,6 +1407,30 @@ export default [
     company: 'Mondelēz International',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mondelez_International.svg/2880px-Mondelez_International.svg.png'
   },
+  {
+    name: 'Hadiklaim',
+    image: 'https://trademarks.justia.com/media/og_image.php?serial=79170372',
+    keywords: ['kurma', 'ramadhan', 'ramadan', 'dates'],
+    kind: 'Kurma',
+    company: '',
+    company_img: ''
+  },
+  {
+    name: 'Jordan River',
+    image: 'https://alpasha.shop/pub/media/catalog/product/cache/e43775a376ba068bd2cd5e5cb988bb93/d/f/dfd45233-a5c3-4681-85d3-6ef13dc7799e.jpeg',
+    keywords: ['kurma', 'ramadhan', 'ramadan', 'dates'],
+    kind: 'Kurma',
+    company: '',
+    company_img: ''
+  },
+  {
+    name: 'King Solomon Dates',
+    image: 'https://m.media-amazon.com/images/S/abs-image-upload-na/c/AmazonStores/ATVPDKIKX0DER/d56dbd6248ccc3b710a1eb02e2214c79.w428.h420.jpg',
+    keywords: ['kurma', 'ramadhan', 'ramadan', 'dates'],
+    kind: 'Kurma',
+    company: '',
+    company_img: ''
+  },
 
   // COMPANY
   {

@@ -270,7 +270,13 @@ export default [
     keywords: ['wajah', 'kulit', 'face', 'wash', 'mandi', 'toilet', 'makeup'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Wardah',
+        image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
+      },
+    ]
   },
   {
     name: 'Lifebuoy',
@@ -545,7 +551,13 @@ export default [
     keywords: ['pembersih', 'natural', 'cleaner', 'toilet'],
     kind: 'Pembersih',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Porstex',
+        image: 'https://image1ws.indotrading.com/s3/productimages/webp/co37129/p426477/w425-h425/0902e6b3-75a4-4b7a-b8f6-10818a431935w.jpg'
+      }
+    ]
   },
   {
     name: 'Molto',
@@ -727,7 +739,13 @@ export default [
     keywords: ['karbonasi', 'cocacola', 'cola', 'koka', 'soda', 'minuman', 'bersoda'],
     kind: 'Makanan & minuman',
     company: 'The Coca-Cola Company',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Coca-Cola_Company_%282020%29.svg/1280px-The_Coca-Cola_Company_%282020%29.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Coca-Cola_Company_%282020%29.svg/1280px-The_Coca-Cola_Company_%282020%29.svg.png',
+    alternatives: [
+      {
+        name: 'Nipis Madu',
+        image: 'https://id-test-11.slatic.net/p/559901c2b05ff74f8127832f79455a59.jpg'
+      }
+    ]
   },
   {
     name: 'Pepsi',
@@ -743,7 +761,13 @@ export default [
     keywords: ['karbonasi', 'cocacola', 'cola', 'koka', 'soda', 'minuman', 'bersoda', 'sirup'],
     kind: 'Makanan & minuman',
     company: 'The Coca-Cola Company',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Coca-Cola_Company_%282020%29.svg/1280px-The_Coca-Cola_Company_%282020%29.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Coca-Cola_Company_%282020%29.svg/1280px-The_Coca-Cola_Company_%282020%29.svg.png',
+    alternatives: [
+      {
+        name: 'Nipis Madu',
+        image: 'https://id-test-11.slatic.net/p/559901c2b05ff74f8127832f79455a59.jpg'
+      }
+    ]
   },
   {
     name: 'Milo',
@@ -1117,6 +1141,10 @@ export default [
     company: 'Unilever',
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
     alternatives: [
+      {
+        name: 'Masako',
+        image: 'https://aslimasako.com/storage/post/new-title-15082023-110645.png'
+      },
       {
         name: 'Sasa',
         image: 'https://www.sasa.co.id/medias/page_medias/1587245289872613.png'

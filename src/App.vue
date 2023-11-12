@@ -77,9 +77,9 @@ onBeforeMount(() => {
               <span class="text-800 text-base font-mono">{{ product.kind }}</span>
             </td>
             <td class="text-left text-sm pl-5">
-              <div class="font-semibold text-gray-500">Alternatif</div>
+              <div class="font-semibold text-gray-500 mb-2">Alternatif</div>
               <template v-if="product.alternatives?.length">
-                <div v-for="alternative in product.alternatives" :key="alternative.name" class="flex items-center text-800 font-mono cursor-pointer whitespace-nowrap text-blue-600 hover:text-blue-700 hover:underline" @click="showModalPreview(alternative.name, alternative.image)">
+                <div v-for="alternative in product.alternatives" :key="alternative.name" class="flex mb-1 items-center text-800 font-mono cursor-pointer whitespace-nowrap text-blue-600 hover:text-blue-700 hover:underline" @click="showModalPreview(alternative.name, alternative.image)">
                   <v-lazy-image src-placeholder="https://cdn-images-1.medium.com/max/80/1*xjGrvQSXvj72W4zD6IWzfg.jpeg" :src="alternative.image" :alt="alternative.name" class="mr-2 max-h-4" />
                   <span>{{ alternative.name }}</span>
                 </div>

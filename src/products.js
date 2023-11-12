@@ -78,6 +78,10 @@ export default [
       {
         name: 'Point Coffee',
         image: 'https://scontent.fsub6-4.fna.fbcdn.net/v/t1.6435-9/69410460_353312865599560_4058974798888304640_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c2f564&_nc_eui2=AeEqVmKdkOztUwqslGcpdO1Q__qu0nB8kuL_-q7ScHyS4t0yAMsmDtzB4cDHY_1CUiHc6a1qxSHkG-8ZPSt0H2ML&_nc_ohc=hWk8tluYcVYAX9jhil9&_nc_ht=scontent.fsub6-4.fna&oh=00_AfBAOm8JesQPRIsvsxOj6xnrbxL-bBemOe0_ecXcD87JOA&oe=65776D49'
+      },
+      {
+        name: 'Excelso',
+        image: 'https://www.centralparkjakarta.com/wp-content/uploads/2017/11/excelso.jpg'
       }
     ]
   },
@@ -133,9 +137,23 @@ export default [
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
   },
   {
+    name: 'Pantene',
+    image: 'https://s.biomedis.pl/pantene-pro-v-intensive-repair-szampon-i-odzywka-do-wlosow-zniszczonych-7769f2c61ee2a3cf9162efcecf0b913d-50.webp',
+    keywords: ['shampo', 'kulit', 'kepala', 'badan', 'tubuh', 'mandi', 'sampo', 'rambut'],
+    kind: 'Perawatan Tubuh',
+    company: 'Procter & Gamble',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png',
+    alternatives: [
+      {
+        name: 'Zinc',
+        image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      }
+    ]
+  },
+  {
     name: 'Clear',
     image: 'https://s0.bukalapak.com/img/03116228692/s-463-463/93581796_282a_4490_85c4_c99ba54ad8ee.jpg.webp',
-    keywords: ['sabun', 'shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'sampo', 'rambut'],
+    keywords: ['shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'sampo', 'rambut'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
@@ -565,7 +583,17 @@ export default [
     keywords: ['pewangi', 'pakaian', 'cuci', 'baju', 'setrika', 'pelembut', 'detergen', 'softener', 'sabun cuci pakaian'],
     kind: 'Pembersih',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Pewangi Laundry',
+        image: 'https://www.simplyfreshlaundry.com/wp-content/uploads/Pewangi-Laundry-Tahan-Lama.png'
+      },
+      {
+        name: 'Softener Soklin',
+        image: 'https://wingscorp.com/wp-content/uploads/2020/11/Logo-SK-Softener.png'
+      }
+    ]
   },
   {
     name: 'Downy',
@@ -574,6 +602,16 @@ export default [
     kind: 'Pembersih',
     company: 'Procter & Gamble',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png',
+    alternatives: [
+      {
+        name: 'Pewangi Laundry',
+        image: 'https://www.simplyfreshlaundry.com/wp-content/uploads/Pewangi-Laundry-Tahan-Lama.png'
+      },
+      {
+        name: 'Softener Soklin',
+        image: 'https://wingscorp.com/wp-content/uploads/2020/11/Logo-SK-Softener.png'
+      }
+    ]
   },
   {
     name: 'Rinso',

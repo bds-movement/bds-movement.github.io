@@ -77,7 +77,7 @@ onBeforeMount(() => {
               <div class="font-semibold text-gray-500">Alternatif</div>
               <template v-if="product.alternatives?.length">
                 <div v-for="alternative in product.alternatives" :key="alternative.name" class="flex items-center text-800 font-mono cursor-pointer whitespace-nowrap text-blue-600 hover:text-blue-700 hover:underline" @click="showModalPreview(alternative.name, alternative.image)">
-                  <img :src="alternative.image" :alt="alternative.name" class="mr-2 max-h-4">
+                  <v-lazy-image src-placeholder="https://cdn-images-1.medium.com/max/80/1*xjGrvQSXvj72W4zD6IWzfg.jpeg" :src="alternative.image" :alt="alternative.name" class="mr-2 max-h-4" />
                   <span>{{ alternative.name }}</span>
                 </div>
               </template>

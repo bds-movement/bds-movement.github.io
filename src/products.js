@@ -180,7 +180,17 @@ export default [
     keywords: ['pasta', 'gigi', 'toilet', 'mandi'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Ciptadent',
+        image: 'https://ciptadent.co.id/storage/app/uploads/public/5ea/183/8a0/5ea1838a0a83c447661960.webp'
+      },
+      {
+        name: 'Pasta Gigi Herbal HPAI',
+        image: 'https://generasijuara.sch.id/koperasi/wp-content/uploads/2021/10/Pasta-gigi-herbal-siwak-sirih.jpg'
+      },
+    ]
   },
   {
     name: 'Listerin',
@@ -911,7 +921,17 @@ export default [
     keywords: ['bumbu', 'penyedap', 'seasoning', 'masakan', 'bahan'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Sasa',
+        image: 'https://www.sasa.co.id/medias/page_medias/1587245289872613.png'
+      },
+      {
+        name: 'MamaSuka',
+        image: 'https://image1ws.indotrading.com/s3/productimages/webp/co37129/p401406/w425-h425/b7ad8880-a778-4ad7-8885-c19529c0b933w.jpg'
+      }
+    ]
   },
   {
     name: 'Royco',
@@ -1047,7 +1067,13 @@ export default [
     keywords: ['coklat', 'kue', 'jajan', 'cream', 'vanilla', 'pink', 'strawbery', 'snack', 'snek'],
     kind: 'Makanan & minuman',
     company: 'Mondelēz International',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mondelez_International.svg/2880px-Mondelez_International.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mondelez_International.svg/2880px-Mondelez_International.svg.png',
+    alternatives: [
+      {
+        name: 'Goriorio',
+        image: 'https://scontent.fsub6-4.fna.fbcdn.net/v/t39.30808-6/300591742_389296733292153_6228141519555469307_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGm8W3v-vL9-IS7PhQUBqXHdiD9QYNe5312IP1Bg17nfQNMEuhLdhfbBXZWCNdGVMG-nLoR38xKy_PYU2YBWzCt&_nc_ohc=GlfwEAgMIkwAX-0L8Tr&_nc_zt=23&_nc_ht=scontent.fsub6-4.fna&oh=00_AfCpg5gmJm-2f2nv9L9HcPnpIxuzozL1jcZX1fZys6bK4w&oe=6555A739'
+      }
+    ]
   },
   {
     name: 'Biskuat',

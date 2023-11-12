@@ -147,6 +147,10 @@ export default [
       {
         name: 'Wardah',
         image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
+      },
+      {
+        name: 'Hey Skin',
+        image: 'https://down-id.img.susercontent.com/file/b2446da6c21e6937d6f560828542eaf4'
       }
     ]
   },
@@ -156,7 +160,13 @@ export default [
     keywords: ['bibir', 'makeup', 'make up', 'wajah', 'kecantikan', 'wanita'],
     kind: 'Perawatan Tubuh',
     company: 'L\'Oréal Group',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/400px-L%27Or%C3%A9al_logo.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/400px-L%27Or%C3%A9al_logo.svg.png',
+    alternatives: [
+      {
+        name: 'Rollover Reaction',
+        image: 'https://1.bp.blogspot.com/-MuS_Jf0Y3i0/YYdpT1V7WhI/AAAAAAAAOrU/C7ZSGWTdLto7WWD55TT3nkRhqb1ScYONQCLcBGAsYHQ/s2048/DSC_1595.jpg'
+      }
+    ]
   },
   {
     name: 'L\'ORÉAL',
@@ -206,7 +216,13 @@ export default [
     keywords: ['pasta', 'gigi', 'toilet', 'mandi', 'sikat gigi', 'p&g', 'pg', 'png'],
     kind: 'Perawatan Tubuh',
     company: 'Procter & Gamble',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png',
+    alternatives: [
+      {
+        name: 'Formula',
+        image: 'https://e-katalog.lkpp.go.id/katalog/produk/download/gambar/948094411'
+      }
+    ]
   },
   {
     name: 'Sensodyne',
@@ -227,6 +243,10 @@ export default [
       {
         name: 'Nuvo',
         image: 'https://wingscorp.com/wp-content/uploads/2020/11/Logo-Nuvo-Biru.png'
+      },
+      {
+        name: 'Giv',
+        image: 'https://tokomulyo.com/wp-content/uploads/2021/03/sabun-giv-cair-reff-80-ml.jpg'
       }
     ]
   },
@@ -249,6 +269,10 @@ export default [
       {
         name: 'Nuvo',
         image: 'https://wingscorp.com/wp-content/uploads/2020/11/Logo-Nuvo-Biru.png'
+      },
+      {
+        name: 'Giv',
+        image: 'https://tokomulyo.com/wp-content/uploads/2021/03/sabun-giv-cair-reff-80-ml.jpg'
       }
     ]
   },
@@ -263,6 +287,10 @@ export default [
       {
         name: 'Nuvo',
         image: 'https://wingscorp.com/wp-content/uploads/2020/11/Logo-Nuvo-Biru.png'
+      },
+      {
+        name: 'Giv',
+        image: 'https://tokomulyo.com/wp-content/uploads/2021/03/sabun-giv-cair-reff-80-ml.jpg'
       }
     ]
   },
@@ -272,7 +300,21 @@ export default [
     keywords: ['sabun', 'mandi', 'badan', 'toilet', 'kulit'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Kahf',
+        image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
+      },
+      {
+        name: 'Wardah',
+        image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
+      },
+      {
+        name: 'Hey Skin',
+        image: 'https://down-id.img.susercontent.com/file/b2446da6c21e6937d6f560828542eaf4'
+      }
+    ]
   },
   {
     name: 'Ponds',
@@ -289,6 +331,10 @@ export default [
       {
         name: 'Wardah',
         image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
+      },
+      {
+        name: 'Hey Skin',
+        image: 'https://down-id.img.susercontent.com/file/b2446da6c21e6937d6f560828542eaf4'
       }
     ]
   },
@@ -307,6 +353,10 @@ export default [
       {
         name: 'Wardah',
         image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
+      },
+      {
+        name: 'Hey Skin',
+        image: 'https://down-id.img.susercontent.com/file/b2446da6c21e6937d6f560828542eaf4'
       }
     ]
   },
@@ -325,6 +375,10 @@ export default [
       {
         name: 'Wardah',
         image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
+      },
+      {
+        name: 'Hey Skin',
+        image: 'https://down-id.img.susercontent.com/file/b2446da6c21e6937d6f560828542eaf4'
       }
     ]
   },
@@ -359,6 +413,10 @@ export default [
       {
         name: 'Wardah',
         image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
+      },
+      {
+        name: 'Hey Skin',
+        image: 'https://down-id.img.susercontent.com/file/b2446da6c21e6937d6f560828542eaf4'
       }
     ]
   },
@@ -392,7 +450,13 @@ export default [
     keywords: ['popok', 'celana', 'bayi', 'anak', 'toilet', 'p&g', 'pg', 'png'],
     kind: 'Perawatan Tubuh',
     company: 'Procter & Gamble',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png',
+    alternatives: [
+      {
+        name: 'Mamy Poko',
+        image: 'https://images.k24klik.com/product/large/apotek_online_k24klik_20220105013129359225_MAMY-POKO-PANTS-XTRA-KERING-M-34S-removebg-preview.png'
+      }
+    ]
   },
   {
     name: 'Softex',
@@ -400,7 +464,13 @@ export default [
     keywords: ['popok', 'pembalut', 'wanita', 'haid'],
     kind: 'Perawatan Tubuh',
     company: '',
-    company_img: null
+    company_img: null,
+    alternatives: [
+      {
+        name: 'Charm',
+        image: 'https://ds393qgzrxwzn.cloudfront.net/cat1/img/images/0/fVEJHoFdRl.jpg'
+      }
+    ]
   },
   {
     name: 'JOHNSON\'S Baby Cologne',
@@ -446,6 +516,14 @@ export default [
     kind: 'Pembersih',
     company: 'Unilever',
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+  },
+  {
+    name: 'Downy',
+    image: 'https://qph.cf2.quoracdn.net/main-qimg-5c9e3f7a4c76533bc428fbb1b507b835',
+    keywords: ['pewangi', 'pakaian', 'cuci', 'baju', 'setrika', 'pelembut', 'detergen', 'softener', 'sabun cuci pakaian'],
+    kind: 'Pembersih',
+    company: 'Procter & Gamble',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png',
   },
   {
     name: 'Rinso',
@@ -949,6 +1027,10 @@ export default [
     company: 'Unilever',
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
     alternatives: [
+      {
+        name: 'Masako',
+        image: 'https://aslimasako.com/storage/post/new-title-15082023-110645.png'
+      },
       {
         name: 'Sasa',
         image: 'https://www.sasa.co.id/medias/page_medias/1587245289872613.png'

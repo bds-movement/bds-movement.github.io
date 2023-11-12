@@ -53,9 +53,11 @@ onBeforeMount(() => {
 <template>
   <main class="text-center my-10 md:mt-16 px-3 md:px-20">
     <img src="https://bdsmovement.net/sites/all/themes/bds/logo.png" alt="BDS Movement" class="w-64 mx-auto">
-    <p class="mt-10 text-left text-xs mx-0 sm:mx-10 md:mx-24 md:text-lg">Gerakan Boikot, Divestasi, Sanksi (BDS) berupaya mengakhiri dukungan internasional terhadap penindasan Israel terhadap warga Palestina dan menekan Israel agar mematuhi hukum internasional.</p>
-    <h4 class="text-red-600 font-mono font-semibold mt-5">Update Terakhir : 2023-11-12 17:25 WIB</h4>
-    <div class="w-full flex items-center shadow-sm border-[1px] my-4 md:my-10 rounded-full overflow-hidden">
+    <h1 class="text-6xl mt-10 mb-5">🇮🇩 ❤️ 🇵🇸</h1>
+    <p class="text-left text-xs mx-0 sm:mx-10 md:mx-24 md:text-lg">Gerakan Boikot, Divestasi, Sanksi (BDS) berupaya mengakhiri dukungan internasional terhadap penindasan Israel terhadap warga Palestina dan menekan Israel agar mematuhi hukum internasional.</p>
+    <h4 class="text-red-600 font-mono font-semibold mt-5 mb-5">Update Terakhir : 2023-11-12 18:09 WIB</h4>
+    <!-- <div class="my-4 text-blue-500 hover:underline cursor-pointer">Dampak Boikot</div> -->
+    <div class="w-full flex items-center mb-4 shadow-sm border-[1px] rounded-full overflow-hidden">
       <input type="text" v-model="search_keyword" class="w-full text-center px-5 py-3 focus-within:outline-none outline-none flex-1" placeholder="Cari Nama Produk/Perusahaan/Kata Kunci Dalam Daftar Boikot">
       <button v-show="search_keyword?.trim() != ''" title="hapus filter" @click="()=>search_keyword = ''" type="button" class="rounded-full mr-4 text-slate-400 text-2xl">ⓧ</button>
     </div>

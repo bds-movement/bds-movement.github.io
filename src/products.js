@@ -161,6 +161,10 @@ export default [
       {
         name: 'Zinc',
         image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      },
+      {
+        name: 'Serasoft',
+        image: 'https://down-id.img.susercontent.com/file/id-11134207-7qul8-lk0wpjotz1uq43'
       }
     ]
   },
@@ -175,6 +179,10 @@ export default [
       {
         name: 'Zinc',
         image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      },
+      {
+        name: 'Serasoft',
+        image: 'https://down-id.img.susercontent.com/file/id-11134207-7qul8-lk0wpjotz1uq43'
       }
     ]
   },
@@ -445,6 +453,10 @@ export default [
       {
         name: 'Zinc',
         image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      },
+      {
+        name: 'Serasoft',
+        image: 'https://down-id.img.susercontent.com/file/id-11134207-7qul8-lk0wpjotz1uq43'
       }
     ]
   },
@@ -459,6 +471,10 @@ export default [
       {
         name: 'Zinc',
         image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      },
+      {
+        name: 'Serasoft',
+        image: 'https://down-id.img.susercontent.com/file/id-11134207-7qul8-lk0wpjotz1uq43'
       }
     ]
   },
@@ -495,6 +511,10 @@ export default [
       {
         name: 'Zinc',
         image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      },
+      {
+        name: 'Serasoft',
+        image: 'https://down-id.img.susercontent.com/file/id-11134207-7qul8-lk0wpjotz1uq43'
       }
     ]
   },

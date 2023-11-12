@@ -104,6 +104,14 @@ export default [
     company: 'HP Inc.',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/1200px-HP_logo_2012.svg.png'
   },
+  {
+    name: 'Siemens',
+    image: 'https://yt3.googleusercontent.com/n03PddoJXhZbJXCalvhKlYnZCYcQ9aWCox5zrG8vzwviNoPo7Nsj2dimRms6uYG9Ni18qgT9=s900-c-k-c0x00ffffff-no-rj',
+    keywords: ['laptop', 'teknologi', 'notebook', 'pc', 'komputer', 'hp', 'smartphone'],
+    kind: 'Teknologi',
+    company: 'Siemens',
+    company_img: 'https://yt3.googleusercontent.com/n03PddoJXhZbJXCalvhKlYnZCYcQ9aWCox5zrG8vzwviNoPo7Nsj2dimRms6uYG9Ni18qgT9=s900-c-k-c0x00ffffff-no-rj'
+  },
 
 
   // PAKAIAN

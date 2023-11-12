@@ -395,6 +395,14 @@ export default [
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png'
   },
   {
+    name: 'Softex',
+    image: 'https://www.softexpedia.com/-/media/softexid/productsid/sds_website_banner_1263x421_01.jpg?h=421&w=1263&hash=5412A2683D5AEA37DD5ED546EFF4C0B6',
+    keywords: ['popok', 'pembalut', 'wanita', 'haid'],
+    kind: 'Perawatan Tubuh',
+    company: '',
+    company_img: null
+  },
+  {
     name: 'JOHNSON\'S Baby Cologne',
     image: 'https://img.ws.mms.shopee.co.id/id-11134207-7qukw-lk1wkfx7eslf4f',
     keywords: ['popok', 'bayi', 'anak', 'perawatan', 'jnj', 'j&j'],

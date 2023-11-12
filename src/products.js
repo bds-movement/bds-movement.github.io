@@ -26,6 +26,10 @@ export default [
       {
         name: 'Richeese Factory',
         image: 'https://binus.ac.id/malang/communication/wp-content/uploads/sites/3/2022/12/im-richeese.jpg'
+      },
+      {
+        name: 'CFC',
+        image: 'https://lokercirebon.com/wp-content/uploads/2022/03/CFC-California-Fried-Chicken.png'
       }
     ]
   },
@@ -56,6 +60,10 @@ export default [
       {
         name: 'Richeese Factory',
         image: 'https://binus.ac.id/malang/communication/wp-content/uploads/sites/3/2022/12/im-richeese.jpg'
+      },
+      {
+        name: 'CFC',
+        image: 'https://lokercirebon.com/wp-content/uploads/2022/03/CFC-California-Fried-Chicken.png'
       }
     ]
   },
@@ -536,6 +544,10 @@ export default [
       {
         name: 'Daia',
         image: 'https://down-id.img.susercontent.com/file/d06898d887e2d0fb7b43630050c5c2fa'
+      },
+      {
+        name: 'Boom',
+        image: 'https://down-id.img.susercontent.com/file/da7dae6a8bfc54acaa6330ed9923052b'
       }
     ]
   },
@@ -550,10 +562,16 @@ export default [
   {
     name: 'Sunlight',
     image: 'https://assets.klikindomaret.com/products/20070851/20070851_2.jpg',
-    keywords: ['cuci', 'piting', 'jeruk', 'hijau', 'dapur'],
+    keywords: ['cuci', 'piring', 'jeruk', 'hijau', 'dapur'],
     kind: 'Pembersih',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'mamalemon',
+        image: 'https://bosmayur.com/wp-content/uploads/2020/04/MAMA-LEMON-1.jpg'
+      }
+    ]
   },
   {
     name: 'Super Pell',
@@ -603,7 +621,13 @@ export default [
     keywords: ['buavita', 'minuman', 'dingin'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Cimory',
+        image: 'https://ik.imagekit.io/dcjlghyytp1/c4c133e0555fd6fe7355bab511e0aaac?tr=f-auto,w-360'
+      }
+    ]
   },
   {
     name: 'Minute Maid',
@@ -611,7 +635,13 @@ export default [
     keywords: ['jeruk', 'minuman', 'dingin', 'pulpi', 'jus', 'jeruk', 'melon', 'jambu'],
     kind: 'Makanan & minuman',
     company: 'The Coca-Cola Company',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Coca-Cola_Company_%282020%29.svg/1280px-The_Coca-Cola_Company_%282020%29.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Coca-Cola_Company_%282020%29.svg/1280px-The_Coca-Cola_Company_%282020%29.svg.png',
+    alternatives: [
+      {
+        name: 'Cimory',
+        image: 'https://ik.imagekit.io/dcjlghyytp1/c4c133e0555fd6fe7355bab511e0aaac?tr=f-auto,w-360'
+      }
+    ]
   },
   {
     name: 'Nutri Boost',
@@ -619,7 +649,13 @@ export default [
     keywords: ['jeruk', 'minuman', 'dingin', 'pulpi', 'jus', 'jeruk', 'melon', 'jambu'],
     kind: 'Makanan & minuman',
     company: 'Coca-Cola Amatil Indonesia',
-    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20171124-113254-9a5c5.png'
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20171124-113254-9a5c5.png',
+    alternatives: [
+      {
+        name: 'Cimory',
+        image: 'https://ik.imagekit.io/dcjlghyytp1/c4c133e0555fd6fe7355bab511e0aaac?tr=f-auto,w-360'
+      }
+    ]
   },
   {
     name: 'Nescafe',
@@ -683,7 +719,13 @@ export default [
     keywords: ['coklat', 'susu', 'minuman', 'creamer'],
     kind: 'Makanan & minuman',
     company: 'Nestle',
-    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Ultra Milk',
+        image: 'https://www.ultrajaya.co.id/images/product_fullcream2023.jpg'
+      }
+    ]
   },
   {
     name: 'Nestle Pure',
@@ -913,7 +955,13 @@ export default [
     keywords: ['susu', 'madu', 'kurma', 'minuman'],
     kind: 'Makanan & minuman',
     company: 'Nestle',
-    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Ultra Milk',
+        image: 'https://www.ultrajaya.co.id/images/product_fullcream2023.jpg'
+      }
+    ]
   },
   {
     name: 'Cornetto',

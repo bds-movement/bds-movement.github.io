@@ -627,7 +627,13 @@ export default [
     keywords: ['pembersih', 'natural', 'cleaner', 'dapur'],
     kind: 'Pembersih',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Cling',
+        image: 'https://media.monotaro.id/mid01/big/Alat%20%26%20Kebutuhan%20Kebersihan/Deterjen/Pembersih%20Kaca/Cling%20Glass%20Cleaner%20(Pembersih%20Kaca)/Cling%20Glass%20Cleaner%20(Pembersih%20Kaca)%20Pump%20Spray%20Ocean%20Fresh%20425ml%201pc/0yS000003034-5.jpg'
+      }
+    ]
   },
   {
     name: 'Domestos',
@@ -1156,6 +1162,10 @@ export default [
       {
         name: 'Aice',
         image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      },
+      {
+        name: 'Campina',
+        image: 'https://yt3.googleusercontent.com/ytc/APkrFKYK6r8TGaOHM0DvgFnmqb1J0SNf9JLUDcggDTKIdg=s900-c-k-c0x00ffffff-no-rj'
       }
     ]
   },
@@ -1170,6 +1180,10 @@ export default [
       {
         name: 'Aice',
         image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      },
+      {
+        name: 'Campina',
+        image: 'https://yt3.googleusercontent.com/ytc/APkrFKYK6r8TGaOHM0DvgFnmqb1J0SNf9JLUDcggDTKIdg=s900-c-k-c0x00ffffff-no-rj'
       }
     ]
   },
@@ -1232,6 +1246,10 @@ export default [
       {
         name: 'Aice',
         image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      },
+      {
+        name: 'Campina',
+        image: 'https://yt3.googleusercontent.com/ytc/APkrFKYK6r8TGaOHM0DvgFnmqb1J0SNf9JLUDcggDTKIdg=s900-c-k-c0x00ffffff-no-rj'
       }
     ]
   },
@@ -1314,6 +1332,10 @@ export default [
       {
         name: 'Aice',
         image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      },
+      {
+        name: 'Campina',
+        image: 'https://yt3.googleusercontent.com/ytc/APkrFKYK6r8TGaOHM0DvgFnmqb1J0SNf9JLUDcggDTKIdg=s900-c-k-c0x00ffffff-no-rj'
       }
     ]
   },
@@ -1328,6 +1350,10 @@ export default [
       {
         name: 'Aice',
         image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      },
+      {
+        name: 'Campina',
+        image: 'https://yt3.googleusercontent.com/ytc/APkrFKYK6r8TGaOHM0DvgFnmqb1J0SNf9JLUDcggDTKIdg=s900-c-k-c0x00ffffff-no-rj'
       }
     ]
   },
@@ -1342,6 +1368,10 @@ export default [
       {
         name: 'Aice',
         image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      },
+      {
+        name: 'Campina',
+        image: 'https://yt3.googleusercontent.com/ytc/APkrFKYK6r8TGaOHM0DvgFnmqb1J0SNf9JLUDcggDTKIdg=s900-c-k-c0x00ffffff-no-rj'
       }
     ]
   },
@@ -1356,6 +1386,10 @@ export default [
       {
         name: 'Aice',
         image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      },
+      {
+        name: 'Campina',
+        image: 'https://yt3.googleusercontent.com/ytc/APkrFKYK6r8TGaOHM0DvgFnmqb1J0SNf9JLUDcggDTKIdg=s900-c-k-c0x00ffffff-no-rj'
       }
     ]
   },
@@ -1370,6 +1404,10 @@ export default [
       {
         name: 'Aice',
         image: 'https://asset.kompas.com/crops/Ib8cc91NwYlan5v63ymHPeWu3OE=/103x0:688x390/750x500/data/photo/2021/06/03/60b8afd017f21.jpg'
+      },
+      {
+        name: 'Campina',
+        image: 'https://yt3.googleusercontent.com/ytc/APkrFKYK6r8TGaOHM0DvgFnmqb1J0SNf9JLUDcggDTKIdg=s900-c-k-c0x00ffffff-no-rj'
       }
     ]
   },

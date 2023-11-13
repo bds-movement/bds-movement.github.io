@@ -148,7 +148,13 @@ export default [
     keywords: ['kulit', 'perawatan', 'lotion'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Marina',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2021/7/12/7b13e022-54dc-45f0-b812-2c387c16beae.jpg'
+      }
+    ]
   },
   {
     name: 'Pantene',
@@ -189,7 +195,7 @@ export default [
   {
     name: 'Garnier',
     image: 'https://o-cdn-cas.sirclocdn.com/parenting/images/produk-garnier.width-800.format-webp.webp',
-    keywords: ['sabun', 'shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'skin care', 'body care', 'body wash', 'serum', 'loreal'],
+    keywords: ['sabun', 'shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'skin care', 'body care', 'body wash', 'serum', 'loreal', 'lotion'],
     kind: 'Perawatan Tubuh',
     company: 'L\'Oréal',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/400px-L%27Or%C3%A9al_logo.svg.png',
@@ -236,7 +242,17 @@ export default [
     keywords: ['pasta', 'gigi', 'toilet', 'mandi'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Ciptadent',
+        image: 'https://ciptadent.co.id/storage/app/uploads/public/5ea/183/8a0/5ea1838a0a83c447661960.webp'
+      },
+      {
+        name: 'Pasta Gigi Herbal HPAI',
+        image: 'https://generasijuara.sch.id/koperasi/wp-content/uploads/2021/10/Pasta-gigi-herbal-siwak-sirih.jpg'
+      },
+    ]
   },
   {
     name: 'Pepsodent',
@@ -262,7 +278,17 @@ export default [
     keywords: ['pasta', 'gigi', 'toilet', 'mandi', 'perawatan', 'kumur'],
     kind: 'Perawatan Tubuh',
     company: 'PT Pfizer Indonesia',
-    company_img: 'https://gwejqeb2o8ze.cdn.shift8web.ca/wp-content/uploads/2022/04/Pfiziper-Logo.jpg'
+    company_img: 'https://gwejqeb2o8ze.cdn.shift8web.ca/wp-content/uploads/2022/04/Pfiziper-Logo.jpg',
+    alternatives: [
+      {
+        name: 'Total Care',
+        image: 'https://down-id.img.susercontent.com/file/4d91e18e10d349930db604a0e8a195d8'
+      },
+      {
+        name: 'Enkasari',
+        image: 'https://id-test-11.slatic.net/p/28a0cee3f7bd5259e829aa8731baadf1.jpg'
+      }
+    ]
   },
   {
     name: 'Oral-B',
@@ -524,7 +550,13 @@ export default [
     keywords: ['skincare', 'kulit', 'badan', 'tubuh', 'vaselin', 'pelembut kulit'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Marina',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2021/7/12/7b13e022-54dc-45f0-b812-2c387c16beae.jpg'
+      }
+    ]
   },
   {
     name: 'Zwitsal',

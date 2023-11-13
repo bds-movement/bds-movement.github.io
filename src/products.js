@@ -1511,4 +1511,22 @@ export default [
     company: 'Twentieth Century Studios, Inc',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/20th_Century_Studios_%282020%29.svg/1200px-20th_Century_Studios_%282020%29.svg.png'
   },
+
+  // LAIN-LAIN
+  {
+    name: 'Sodastream',
+    image: 'https://images-cdn.ubuy.co.id/647891e97799da216451ade8-soda-stream-concentrate-syrup-pepsi.jpg',
+    keywords: ['minuman', 'soda'],
+    kind: 'Lain - lain',
+    company: 'SodaStream International Ltd',
+    company_img: null
+  },
+  {
+    name: 'AXA',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AXA_Logo.svg/640px-AXA_Logo.svg.png',
+    keywords: ['asuransi', 'riba'],
+    kind: 'Lain - lain',
+    company: 'Axa S.A',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AXA_Logo.svg/640px-AXA_Logo.svg.png'
+  },
 ]

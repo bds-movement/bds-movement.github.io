@@ -48,6 +48,14 @@ export default [
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pizza_Hut_classic_logo.svg/800px-Pizza_Hut_classic_logo.svg.png'
   },
   {
+    name: 'Domino\'s Pizza',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Domino%27s_pizza_logo.svg/800px-Domino%27s_pizza_logo.svg.png',
+    keywords: ['makanan', 'cepat', 'saji', 'restoran', 'pizza', 'junk', 'food', 'fast', 'dominos'],
+    kind: 'Restoran',
+    company: 'Domino\'s Pizza Inc.',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dominos_pizza_logo.svg/2048px-Dominos_pizza_logo.svg.png'
+  },
+  {
     name: 'Subway',
     image: 'https://upload.wikimedia.org/wikipedia/commons/2/2a/Subway_in_Burwood_Plaza.jpg',
     keywords: ['makanan', 'cepat', 'saji', 'restoran', 'pizza', 'junk', 'food', 'fast'],
@@ -756,8 +764,8 @@ export default [
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
     alternatives: [
       {
-        name: 'Porstex',
-        image: 'https://image1ws.indotrading.com/s3/productimages/webp/co37129/p426477/w425-h425/0902e6b3-75a4-4b7a-b8f6-10818a431935w.jpg'
+        name: 'Soklin Lantai',
+        image: 'https://img.ws.mms.shopee.co.id/66dc1e7cc9307e51fde79728bfc63e4a'
       }
     ]
   },

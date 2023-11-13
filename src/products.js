@@ -132,7 +132,13 @@ export default [
     keywords: ['perawatan', 'deodorant', 'parfum', 'deodoran', 'perfume', 'wangi'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Kahf Invigorating',
+        image: 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//101/MTA-22724777/kahf_kahf_invigorating_waterfall_travel_package_-_paket_kahf_travel_-_nourishing_beard_oil_-_hair_and_body_wash_-_face_wash_-_parfum_-_termurah_full01_iuh41dmw.jpg'
+      }
+    ]
   },
   {
     name: 'Rexona',
@@ -144,7 +150,7 @@ export default [
     alternatives: [
       {
         name: 'Wardah Roll On',
-        image: 'https://cdn.hellosehat.com/wp-content/uploads/2023/02/55373af1-war-400x400.jpg'
+        image: 'https://id-test-11.slatic.net/p/2f3bde2c4c56fe0364af085378989ac5.jpg'
       }
     ]
   },
@@ -567,7 +573,7 @@ export default [
   {
     name: 'Zwitsal',
     image: 'https://www.rajasusu.com/wp-content/uploads/2023/01/ZWITSAL-BABY-BATH-NATURAL-HAIR-BODY-300-ML.jpg',
-    keywords: ['shampo', 'sabun', 'mandi', 'bayi', 'anak', 'toilet'],
+    keywords: ['shampo', 'sabun', 'mandi', 'bayi', 'anak', 'toilet', 'baby cologne'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
     company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
@@ -575,6 +581,10 @@ export default [
       {
         name: 'Kodomo',
         image: 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//101/MTA-55444871/kodomo_kodomo_shampoo_and_conditioner_2in1_100ml_bpom_original_-_shampo_anak_full02_lz61fc9u.jpg'
+      },
+      {
+        name: 'Mitu Baby Cologne',
+        image: 'https://cdnapi.sooplai.com/media/CACHE/images/products/165302/BOTR-MITI-006A-1-8/3a5b695125b5b4ff23318554e1ba7fbd.jpg'
       }
     ]
   },
@@ -612,11 +622,17 @@ export default [
     keywords: ['popok', 'bayi', 'anak', 'perawatan', 'jnj', 'j&j'],
     kind: 'Perawatan Tubuh',
     company: 'Johnson & Johnson',
-    company_img: null
+    company_img: null,
+    alternatives: [
+      {
+        name: 'Mitu Baby Cologne',
+        image: 'https://cdnapi.sooplai.com/media/CACHE/images/products/165302/BOTR-MITI-006A-1-8/3a5b695125b5b4ff23318554e1ba7fbd.jpg'
+      }
+    ]
   },
   {
     name: 'Clean & Clear',
-    image: 'https://img.ws.mms.shopee.co.id/id-11134207-7qukw-lk1wkfx7eslf4f',
+    image: 'https://down-id.img.susercontent.com/file/a9b73cf4914770f706ab9eab947eedd4',
     keywords: ['perawatan kulit', 'perawatan wajah', 'acne', 'foam', 'jnj', 'j&j'],
     kind: 'Perawatan Tubuh',
     company: 'Johnson & Johnson',

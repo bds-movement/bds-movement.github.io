@@ -140,7 +140,13 @@ export default [
     keywords: ['perawatan', 'deodorant', 'ketiak', 'reksona'],
     kind: 'Perawatan Tubuh',
     company: 'Unilever',
-    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/id/3/37/Unilever.png',
+    alternatives: [
+      {
+        name: 'Wardah Roll On',
+        image: 'https://cdn.hellosehat.com/wp-content/uploads/2023/02/55373af1-war-400x400.jpg'
+      }
+    ]
   },
   {
     name: 'Citra',

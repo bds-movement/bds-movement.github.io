@@ -345,10 +345,16 @@ export default [
   {
     name: 'Sensodyne',
     image: 'https://m.media-amazon.com/images/I/61eKAumo-5L.jpg',
-    keywords: ['pasta', 'gigi', 'toilet', 'mandi', 'pasta gigi'],
+    keywords: ['pasta', 'gigi', 'toilet', 'mandi', 'pasta gigi', 'ngilu', 'sensitif'],
     kind: 'Perawatan Tubuh',
     company: 'Glaxo Smith Kline',
-    company_img: 'https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/GSK_logo_2014.svg/1200px-GSK_logo_2014.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/GSK_logo_2014.svg/1200px-GSK_logo_2014.svg.png',
+    alternatives: [
+      {
+        name: 'Systema Pro Sensitive',
+        image: 'https://img.ws.mms.shopee.co.id/506a8e417abc7dcd461b72df7edf3b10'
+      }
+    ]
   },
   {
     name: 'Dove',
@@ -757,7 +763,13 @@ export default [
     keywords: ['pembersih', 'pakaian', 'cuci', 'baju', 'setrika', 'pelembut', 'noda', 'rose', 'detergen', 'sabun cuci pakaian', 'pemutih baju'],
     kind: 'Pembersih',
     company: 'Reckitt Benckiser',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Reckitt_%282021%29.svg/800px-Reckitt_%282021%29.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Reckitt_%282021%29.svg/800px-Reckitt_%282021%29.svg.png',
+    alternatives: [
+      {
+        name: 'Soklin Pemutih',
+        image: 'https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/7/12/2a528e5a-35f7-439e-8b12-048173b67e6c.png'
+      }
+    ]
   },
   {
     name: 'Sunlight',

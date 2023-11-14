@@ -195,6 +195,24 @@ export default [
     ]
   },
   {
+    name: 'Rejoice',
+    image: 'https://img.ws.mms.shopee.co.id/83da28e32de3ef17b83f31c37bd0aa35',
+    keywords: ['shampo', 'kulit', 'kepala', 'badan', 'tubuh', 'mandi', 'sampo', 'rambut'],
+    kind: 'Perawatan Tubuh',
+    company: 'Procter & Gamble',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/300px-Procter_%26_Gamble_logo.svg.png',
+    alternatives: [
+      {
+        name: 'Zinc',
+        image: 'https://www.zinc.co.id/storage/app/uploads/public/5fc/696/592/thumb_551_938_393_0_0_crop.jpg'
+      },
+      {
+        name: 'Serasoft',
+        image: 'https://down-id.img.susercontent.com/file/id-11134207-7qul8-lk0wpjotz1uq43'
+      }
+    ]
+  },
+  {
     name: 'Clear',
     image: 'https://s0.bukalapak.com/img/03116228692/s-463-463/93581796_282a_4490_85c4_c99ba54ad8ee.jpg.webp',
     keywords: ['shampo', 'kulit', 'badan', 'tubuh', 'mandi', 'sampo', 'rambut'],
@@ -1447,7 +1465,27 @@ export default [
     keywords: ['keripik', 'kue', 'jajan', 'cemilan', 'singkong', 'kentang', 'ciki', 'chiki', 'kering', 'snack', 'snek'],
     kind: 'Makanan & minuman',
     company: 'Indofood Fritolay',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Indofood_CBP.svg/2880px-Indofood_CBP.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Indofood_CBP.svg/2880px-Indofood_CBP.svg.png',
+    alternatives: [
+      {
+        name: 'Kusuka',
+        image: 'https://ik.imagekit.io/dcjlghyytp1/a51bcd314c8710603016e7bcc52f7763?tr=f-auto,w-360'
+      }
+    ]
+  },
+  {
+    name: 'Doritos',
+    image: 'https://upload.wikimedia.org/wikipedia/id/thumb/9/9a/Doritos_Logo_%282013%29.png/220px-Doritos_Logo_%282013%29.png',
+    keywords: ['keripik', 'kue', 'jajan', 'cemilan', 'singkong', 'kentang', 'ciki', 'chiki', 'kering', 'snack', 'snek'],
+    kind: 'Makanan & minuman',
+    company: 'Indofood Fritolay',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Indofood_CBP.svg/2880px-Indofood_CBP.svg.png',
+    alternatives: [
+      {
+        name: 'Kusuka',
+        image: 'https://ik.imagekit.io/dcjlghyytp1/a51bcd314c8710603016e7bcc52f7763?tr=f-auto,w-360'
+      }
+    ]
   },
   {
     name: 'Pringles',
@@ -1455,7 +1493,13 @@ export default [
     keywords: ['keripik', 'kue', 'jajan', 'cemilan', 'singkong', 'kentang', 'ciki', 'chiki', 'kering', 'snack', 'snek'],
     kind: 'Makanan & minuman',
     company: 'Super Food Technology',
-    company_img: null
+    company_img: null,
+    alternatives: [
+      {
+        name: 'Kusuka',
+        image: 'https://ik.imagekit.io/dcjlghyytp1/a51bcd314c8710603016e7bcc52f7763?tr=f-auto,w-360'
+      }
+    ]
   },
   {
     name: 'Cheetos',
@@ -1501,7 +1545,13 @@ export default [
     keywords: ['coklat', 'kue', 'jajan', 'cream', 'cemilan', 'snack', 'snek'],
     kind: 'Makanan & minuman',
     company: 'Mars Incorporated',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mars_Incorporated_2019_logo.svg/440px-Mars_Incorporated_2019_logo.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mars_Incorporated_2019_logo.svg/440px-Mars_Incorporated_2019_logo.svg.png',
+    alternatives: [
+      {
+        name: 'Beng Beng',
+        image: 'https://singapore-s3.123ish.com/images/6752/original?1557296897'
+      }
+    ]
   },
   {
     name: 'Dunkin',

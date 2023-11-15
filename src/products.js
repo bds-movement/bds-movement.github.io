@@ -898,6 +898,10 @@ export default [
       {
         name: 'Good Day',
         image: 'https://www.dbl.id/uploads/post/2023/09/01/Varian%20rasa%20good%20day.jpg'
+      },
+      {
+        name: 'Kapal Api',
+        image: 'https://down-id.img.susercontent.com/file/sg-11134201-23010-l94coj0fb7lv3e'
       }
     ]
   },
@@ -1117,7 +1121,13 @@ export default [
     keywords: ['air', 'minuman', 'isotonik', 'mizone', 'minuman kemasan'],
     kind: 'Makanan & minuman',
     company: 'Danone',
-    company_img: 'https://images.bisnis.com/posts/2021/08/04/1425865/danone.jpg'
+    company_img: 'https://images.bisnis.com/posts/2021/08/04/1425865/danone.jpg',
+    alternatives: [
+      {
+        name: 'isoplus',
+        image: 'https://wingscorp.com/wp-content/uploads/2020/11/isoplus-1.png'
+      }
+    ]
   },
   {
     name: 'Koko Krunch',

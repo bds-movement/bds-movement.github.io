@@ -1527,14 +1527,14 @@ export default [
       }
     ]
   },
-  {
+  /* {
     name: 'Cheetos',
     image: 'https://holamart.co.id/wp-content/uploads/2020/07/ct-jb-15.jpg',
     keywords: ['keripik', 'kue', 'jajan', 'cemilan', 'singkong', 'kentang', 'jagung', 'ciki', 'chiki', 'kering', 'snack', 'snek'],
     kind: 'Makanan & minuman',
     company: 'Indofood Fritolay',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Indofood_CBP.svg/2880px-Indofood_CBP.svg.png'
-  },
+  }, */
   {
     name: 'Oreo',
     image: 'https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/9/12/f6bc5cc0-947b-495c-9714-618812d04162.jpg.webp',

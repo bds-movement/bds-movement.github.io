@@ -704,6 +704,10 @@ export default [
       {
         name: 'Porstex',
         image: 'https://image1ws.indotrading.com/s3/productimages/webp/co37129/p426477/w425-h425/0902e6b3-75a4-4b7a-b8f6-10818a431935w.jpg'
+      },
+      {
+        name: 'WPC',
+        image: 'https://media.monotaro.id/mid01/big/Alat%20%26%20Kebutuhan%20Kebersihan/Penghilang%20Noda/Penghapus%20Kerak/WPC%20Pembersih%20Porselen%20Reguler/WPC%20Pembersih%20Porselen%20Reguler%20Bottle%20Blue%20400ml%201pc/ijS010990667-1.jpg'
       }
     ]
   },
@@ -814,6 +818,10 @@ export default [
       {
         name: 'Porstex',
         image: 'https://image1ws.indotrading.com/s3/productimages/webp/co37129/p426477/w425-h425/0902e6b3-75a4-4b7a-b8f6-10818a431935w.jpg'
+      },
+      {
+        name: 'WPC',
+        image: 'https://media.monotaro.id/mid01/big/Alat%20%26%20Kebutuhan%20Kebersihan/Penghilang%20Noda/Penghapus%20Kerak/WPC%20Pembersih%20Porselen%20Reguler/WPC%20Pembersih%20Porselen%20Reguler%20Bottle%20Blue%20400ml%201pc/ijS010990667-1.jpg'
       }
     ]
   },
@@ -828,6 +836,10 @@ export default [
       {
         name: 'Porstex',
         image: 'https://image1ws.indotrading.com/s3/productimages/webp/co37129/p426477/w425-h425/0902e6b3-75a4-4b7a-b8f6-10818a431935w.jpg'
+      },
+      {
+        name: 'WPC',
+        image: 'https://media.monotaro.id/mid01/big/Alat%20%26%20Kebutuhan%20Kebersihan/Penghilang%20Noda/Penghapus%20Kerak/WPC%20Pembersih%20Porselen%20Reguler/WPC%20Pembersih%20Porselen%20Reguler%20Bottle%20Blue%20400ml%201pc/ijS010990667-1.jpg'
       }
     ]
   },
@@ -860,6 +872,10 @@ export default [
       {
         name: 'Cimory',
         image: 'https://ik.imagekit.io/dcjlghyytp1/c4c133e0555fd6fe7355bab511e0aaac?tr=f-auto,w-360'
+      },
+      {
+        name: 'Floridina',
+        image: 'https://wingscorp.com/wp-content/uploads/2020/11/botol-floridina.png'
       }
     ]
   },
@@ -874,6 +890,10 @@ export default [
       {
         name: 'Cimory',
         image: 'https://ik.imagekit.io/dcjlghyytp1/c4c133e0555fd6fe7355bab511e0aaac?tr=f-auto,w-360'
+      },
+      {
+        name: 'Floridina',
+        image: 'https://wingscorp.com/wp-content/uploads/2020/11/botol-floridina.png'
       }
     ]
   },

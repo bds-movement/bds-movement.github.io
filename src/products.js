@@ -645,6 +645,10 @@ export default [
       {
         name: 'Charm',
         image: 'https://ds393qgzrxwzn.cloudfront.net/cat1/img/images/0/fVEJHoFdRl.jpg'
+      },
+      {
+        name: 'Hers Protex',
+        image: 'https://cdn-2.tstatic.net/shopping/foto/bank/images/hers-protex-maxi-wings.jpg'
       }
     ]
   },

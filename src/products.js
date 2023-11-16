@@ -957,7 +957,13 @@ export default [
     keywords: ['karbonasi', 'cocacola', 'cola', 'koka', 'soda', 'minuman', 'bersoda', 'pepsico'],
     kind: 'Makanan & minuman',
     company: 'PepsiCo',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PepsiCo_logo.svg/2500px-PepsiCo_logo.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PepsiCo_logo.svg/2500px-PepsiCo_logo.svg.png',
+    alternatives: [
+      {
+        name: 'Nipis Madu',
+        image: 'https://id-test-11.slatic.net/p/559901c2b05ff74f8127832f79455a59.jpg'
+      }
+    ]
   },
   {
     name: 'Fanta',
@@ -979,7 +985,13 @@ export default [
     keywords: ['coklat', 'minuman', 'energi', 'hangat', 'olahraga'],
     kind: 'Makanan & minuman',
     company: 'Nestle',
-    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Beng-beng drink',
+        image: 'https://down-id.img.susercontent.com/file/4d5ca3bd5d5880dd9e69f9271bf7ed9c'
+      }
+    ]
   },
   {
     name: 'Bear Brand',
@@ -1159,7 +1171,17 @@ export default [
     keywords: ['sereal', 'sarapan', 'coco', 'crunch', 'coklat', 'susu'],
     kind: 'Makanan & minuman',
     company: 'Nestle',
-    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Energen',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/f4137d7a-e163-4716-aab6-ab463b3d532a.jpg'
+      },
+      {
+        name: 'Gery',
+        image: 'https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/6/13/b5f8f31c-e4b3-428e-9816-3742913754da.jpg'
+      }
+    ]
   },
   {
     name: 'Gold Corn',
@@ -1167,7 +1189,17 @@ export default [
     keywords: ['sereal', 'sarapan', 'coco', 'crunch', 'jagung', 'susu'],
     kind: 'Makanan & minuman',
     company: 'Nestle',
-    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Energen',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/f4137d7a-e163-4716-aab6-ab463b3d532a.jpg'
+      },
+      {
+        name: 'Gery',
+        image: 'https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/6/13/b5f8f31c-e4b3-428e-9816-3742913754da.jpg'
+      }
+    ]
   },
   {
     name: 'Corn Flakes',
@@ -1175,7 +1207,17 @@ export default [
     keywords: ['sereal', 'sarapan', 'coco', 'crunch', 'jagung', 'susu'],
     kind: 'Makanan & minuman',
     company: 'Nestle',
-    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Energen',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/f4137d7a-e163-4716-aab6-ab463b3d532a.jpg'
+      },
+      {
+        name: 'Gery',
+        image: 'https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/6/13/b5f8f31c-e4b3-428e-9816-3742913754da.jpg'
+      }
+    ]
   },
   {
     name: 'Nesquik',
@@ -1183,7 +1225,17 @@ export default [
     keywords: ['sereal', 'sarapan', 'coco', 'crunch', 'jagung', 'susu', 'nesquick'],
     kind: 'Makanan & minuman',
     company: 'Nestle',
-    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png'
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Energen',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/f4137d7a-e163-4716-aab6-ab463b3d532a.jpg'
+      },
+      {
+        name: 'Gery',
+        image: 'https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/6/13/b5f8f31c-e4b3-428e-9816-3742913754da.jpg'
+      }
+    ]
   },
   {
     name: 'Cerelac',
@@ -1221,7 +1273,13 @@ export default [
     keywords: ['keju', 'craft', 'cheddar', 'cedar', 'chedar'],
     kind: 'Makanan & minuman',
     company: 'PT Kraft Ultrajaya Indonesia',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Kraft_foods_logo2012.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Kraft_foods_logo2012.png',
+    alternatives: [
+      {
+        name: 'Prochiz',
+        image: 'https://www.prochiz.com/wp-content/uploads/2021/09/prochiz_gold_cheddar_pack_1.png'
+      }
+    ]
   },
   {
     name: 'Kellogg\'s',
@@ -1575,7 +1633,17 @@ export default [
     keywords: ['coklat', 'kue', 'jajan', 'snack', 'snek'],
     kind: 'Makanan & minuman',
     company: 'Mondelēz Indonesia',
-    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mondelez_International.svg/360px-Mondelez_International.svg.png'
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mondelez_International.svg/360px-Mondelez_International.svg.png',
+    alternatives: [
+      {
+        name: 'Roma',
+        image: 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/MTA-11322103/roma_roma_biscuit_kelapa_300_gr_-_biskuit_full03_mzuoanc7.jpeg'
+      },
+      {
+        name: 'Malkist',
+        image: 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//86/MTA-3052525/roma_roma-paket-new-malkist-biskuit_full05.jpg'
+      }
+    ]
   },
   {
     name: 'M&Ms',

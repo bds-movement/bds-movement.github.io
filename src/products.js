@@ -120,6 +120,14 @@ export default [
     company: 'Siemens',
     company_img: 'https://yt3.googleusercontent.com/n03PddoJXhZbJXCalvhKlYnZCYcQ9aWCox5zrG8vzwviNoPo7Nsj2dimRms6uYG9Ni18qgT9=s900-c-k-c0x00ffffff-no-rj'
   },
+  {
+    name: 'Wix',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/800px-Wix.com_website_logo.svg.png',
+    keywords: ['website', 'design'],
+    kind: 'Teknologi',
+    company: 'Wix.com Ltd.',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/220px-Wix.com_website_logo.svg.png'
+  },
 
 
   // PAKAIAN
@@ -1743,6 +1751,15 @@ export default [
     company: 'Twentieth Century Studios, Inc',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/20th_Century_Studios_%282020%29.svg/1200px-20th_Century_Studios_%282020%29.svg.png'
   },
+  {
+    name: 'Disney',
+    image: 'https://www.pngall.com/wp-content/uploads/2018/05/Disney-Logo-PNG-Pic.png',
+    keywords: ['Disney', 'hiburan', 'tayangan', 'tv', 'televisi', 'bioskop', 'movie'],
+    kind: 'Hiburan',
+    company: '',
+    company_img: ''
+  },
+
 
   // LAIN-LAIN
   {

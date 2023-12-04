@@ -1268,6 +1268,34 @@ export default [
     ]
   },
   {
+    name: 'Lactogrow',
+    image: 'https://www.rajasusu.com/wp-content/uploads/2023/01/LACTOGROW-3-RASA-MADU-350-GR.jpg',
+    keywords: ['susu', 'anak', 'balita', 'batita', 'bayi', 'formula', 'sufor'],
+    kind: 'Makanan & minuman',
+    company: 'Nestle',
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Primagro',
+        image: 'https://www.frisianflag.com/storage/app/media/primagro-1-madu-150.png'
+      }
+    ]
+  },
+  {
+    name: 'Datita',
+    image: 'https://image.dailymartazzahra.com/s3/productimages/webp/co37129/p802033/w600-h600/6aa273db-4cd4-4b60-9d0b-c471a294239b.jpg',
+    keywords: ['susu', 'anak', 'balita', 'batita', 'bayi', 'formula', 'sufor'],
+    kind: 'Makanan & minuman',
+    company: 'Nestle',
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    alternatives: [
+      {
+        name: 'Primagro',
+        image: 'https://www.frisianflag.com/storage/app/media/primagro-1-madu-150.png'
+      }
+    ]
+  },
+  {
     name: 'Nutren Diab',
     image: 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//101/MTA-28216766/nutren_nutren_diabetes_400_gram_-_susu_obat_diabetes_aman_-_obat_diabetes_-_susu_penurun_kadar_gula_dalam_darah_-_susu_tinggi_kalsium_full01_srh1ybtk.jpg',
     keywords: ['diabetes', 'susu', 'kalsium'],

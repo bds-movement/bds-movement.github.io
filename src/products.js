@@ -920,6 +920,13 @@ export default [
     ]
   },
   {
+    name: 'Nestle',
+    image: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    kind: 'Makanan & minuman',
+    company: 'Nestle',
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+  },
+  {
     name: 'Nescafe',
     image: 'https://img.ws.mms.shopee.co.id/sg-11134201-23020-bfnl0hhyb0mv68',
     keywords: ['kopi', 'minuman', 'teh', 'dingin', 'hangat'],
@@ -1806,4 +1813,12 @@ export default [
     company: 'Axa S.A',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AXA_Logo.svg/640px-AXA_Logo.svg.png'
   },
+  {
+    name: 'Sabra',
+    image: 'https://target.scene7.com/is/image/Target/GUEST_c7b934ac-ad6d-4ecd-9734-5b27bb7e65a6?wid=488&hei=488&fmt=pjpeg',
+    keywords: ['hummus'],
+    kind: 'Lain - lain',
+    company: 'Sabra',
+    company_img: 'https://upload.wikimedia.org/wikipedia/en/7/7e/Sabra_%28food_industry_business%29_logo.png'
+  }
 ]

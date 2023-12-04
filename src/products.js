@@ -10,7 +10,7 @@ export default [
     alternatives: [
       {
         name: 'Burger Bangor',
-        image: 'https://scontent.fsub6-3.fna.fbcdn.net/v/t39.30808-6/237515173_108283504892262_6391781636150641145_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFxkNnr63K0wP-TSvxL09Us3E1GsAhaWK7cTUawCFpYrs5Qcy0wzTTZfMInuUqJB7L0VM5owM_dpWi52Wa2SRJT&_nc_ohc=Wh7PGtw18AoAX8-xJAa&_nc_zt=23&_nc_ht=scontent.fsub6-3.fna&oh=00_AfBAXrxzBtuTVxk0cuvQEtiqVeP1QnzUquWuMQqI19lZkw&oe=6554AE03'
+        image: 'https://depokloker.com/wp-content/uploads/2023/07/Burger-Bangor.jpg'
       }
     ]
   },{
@@ -35,13 +35,13 @@ export default [
       },
       {
         name: 'CFC',
-        image: 'https://lokercirebon.com/wp-content/uploads/2022/03/CFC-California-Fried-Chicken.png'
+        image: 'https://seeklogo.com/images/C/cfc-logo-79608E5914-seeklogo.com.png'
       }
     ]
   },
   {
     name: 'Pizza Hut',
-    image: 'https://scontent.fsub6-5.fna.fbcdn.net/v/t39.30808-6/387837704_271091195895606_3280517633839149921_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFnW4V8SGLcKzDcexpJGHb5lN_zCy_lKsiU3_MLL-UqyDL9lVpHIoRlH1B3jSNES_0MHEnGcUURZ9G6kDqZ0zxi&_nc_ohc=mIpCJJjiak0AX_azPT-&_nc_zt=23&_nc_ht=scontent.fsub6-5.fna&oh=00_AfA27luk8geFPL_LthOY7N7HwNSUyFZOnNmgxbObP2Htwg&oe=65550070',
+    image: 'https://e7.pngegg.com/pngimages/939/682/png-clipart-pizza-hut-logo-symbol-food-mall-promotions-food-logo.png',
     keywords: ['makanan', 'cepat', 'saji', 'restoran', 'pizza', 'junk', 'food', 'fast'],
     kind: 'Restoran',
     company: 'PT. Sarimelati Kencana Tbk',

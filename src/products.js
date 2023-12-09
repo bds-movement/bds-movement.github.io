@@ -139,6 +139,15 @@ export default [
     company: 'Puma',
     company_img: 'https://upload.wikimedia.org/wikipedia/en/d/da/Puma_complete_logo.svg'
   },
+  {
+    name: "Levi's",
+    image: 'https://play-lh.googleusercontent.com/L7JrV_E1Nxz-_59XdLr5QacnKS-NSt8VF_7xC8ht7_VWHQ3rqnaMsW593Ynu4j0eVgXU',
+    keywords: ['baju', 'olahraga', 'sport', 'celana', 'sepatu', 'topi', 'kaos'],
+    kind: 'Pakaian',
+    company: "Levi's",
+    company_img: 'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1490573842/ggfrunsgnffiuhcvqmt6.png'
+  },
+
 
 
   // PERAWATAN

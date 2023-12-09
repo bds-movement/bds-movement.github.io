@@ -260,6 +260,10 @@ export default [
         image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
       },
       {
+        name: 'Hose',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2023/2/25/7b25c78c-5411-4032-99cf-a735e644530a.jpg'
+      },
+      {
         name: 'Wardah',
         image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
       },
@@ -454,6 +458,10 @@ export default [
         image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
       },
       {
+        name: 'Hose',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2023/2/25/7b25c78c-5411-4032-99cf-a735e644530a.jpg'
+      },
+      {
         name: 'Wardah',
         image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
       },
@@ -474,6 +482,10 @@ export default [
       {
         name: 'Kahf',
         image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
+      },
+      {
+        name: 'Hose',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2023/2/25/7b25c78c-5411-4032-99cf-a735e644530a.jpg'
       },
       {
         name: 'Wardah',
@@ -498,6 +510,10 @@ export default [
         image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
       },
       {
+        name: 'Hose',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2023/2/25/7b25c78c-5411-4032-99cf-a735e644530a.jpg'
+      },
+      {
         name: 'Wardah',
         image: 'https://d2jlkn4m127vak.cloudfront.net/medias/articles/thumb-square-1614480904.jpg'
       },
@@ -518,6 +534,10 @@ export default [
       {
         name: 'Kahf',
         image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
+      },
+      {
+        name: 'Hose',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2023/2/25/7b25c78c-5411-4032-99cf-a735e644530a.jpg'
       },
       {
         name: 'Wardah',
@@ -576,6 +596,10 @@ export default [
       {
         name: 'Kahf',
         image: 'https://cdn.antaranews.com/cache/1200x800/2020/10/09/KaHFI.jpg'
+      },
+      {
+        name: 'Hose',
+        image: 'https://images.tokopedia.net/img/cache/700/VqbcmM/2023/2/25/7b25c78c-5411-4032-99cf-a735e644530a.jpg'
       },
       {
         name: 'Wardah',
@@ -931,6 +955,13 @@ export default [
   {
     name: 'Nestle',
     image: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+    kind: 'Makanan & minuman',
+    company: 'Nestle',
+    company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',
+  },
+  {
+    name: 'Fox',
+    image: 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//97/MTA-2722966/fox-s_fox-s-fruits-permen--90-g--bag-_full02.jpg',
     kind: 'Makanan & minuman',
     company: 'Nestle',
     company_img: 'https://uccareer.id/assets/upload/company/thumbs/thumb300px-20170315-102014-7fd7b.png',

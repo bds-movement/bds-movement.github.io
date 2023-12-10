@@ -1036,7 +1036,7 @@ export default [
   },
   {
     name: 'Milo',
-    image: 'https://scontent.fsub6-7.fna.fbcdn.net/v/t39.30808-6/352284774_285759083883648_477294477490573622_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFHsFewnsUFurJVoXYu5ds6PM3_4ejB5d88zf_h6MHl3xZ3YDhvVaVZAmEax0R1gJRpy4GQlC1x458FbVqjP93Y&_nc_ohc=WhME0W4DZsAAX9VE1fC&_nc_zt=23&_nc_ht=scontent.fsub6-7.fna&oh=00_AfAou6lJB10YYms8Me5TS3zhVWDxCIsCKum9xndRnnioag&oe=65558B4B',
+    image: 'https://d2qjkwm11akmwu.cloudfront.net/products/12472_23-7-2021_10-20-20-1665839250.webp',
     keywords: ['coklat', 'minuman', 'energi', 'hangat', 'olahraga'],
     kind: 'Makanan & minuman',
     company: 'Nestle',
@@ -1080,7 +1080,7 @@ export default [
     alternatives: [
       {
         name: 'Aslah',
-        image: 'https://aslah.id/wp-content/uploads/2022/12/Aslah-removebg-preview.png'
+        image: 'https://images.tokopedia.net/img/cache/1200/BgtCLw/2022/5/27/f1cccfca-9d21-49fa-99b2-508c2a163c48.jpg.webp?ect=4g'
       },
       {
         name: 'Warih',
@@ -1114,7 +1114,41 @@ export default [
     alternatives: [
       {
         name: 'Aslah',
-        image: 'https://aslah.id/wp-content/uploads/2022/12/Aslah-removebg-preview.png'
+        image: 'https://images.tokopedia.net/img/cache/1200/BgtCLw/2022/5/27/f1cccfca-9d21-49fa-99b2-508c2a163c48.jpg.webp?ect=4g'
+      },
+      {
+        name: 'Warih',
+        image: 'https://airsehatwarih.com/foto_slide/13tagline_big.png'
+      },
+      {
+        name: 'Santri',
+        image: 'https://opop.jatimprov.go.id/images/mart/2021/12/31/271/4693AIR-MINERAL-SANTRIsh.jpg'
+      },
+      {
+        name: 'Le Minerale',
+        image: 'https://img.inews.co.id/media/600/files/inews_new/2022/09/18/produk_le_minerale.jpg'
+      },
+      {
+        name: 'Club',
+        image: 'https://arti-assets.sgp1.digitaloceanspaces.com/renyswalayanku/products/eee6266e-e5b9-4c13-903a-9c35197b6079.jpg'
+      },
+      {
+        name: 'Cleo',
+        image: 'https://cleopurewater.com/wp-content/uploads/2023/05/all-produk-cleo.png'
+      }
+    ]
+  },
+  {
+    name: 'Evian',
+    image: 'https://www.beveragedaily.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/9/5/6/7/2967659-1-eng-GB/Danone-launches-new-US-bottle-design-for-Evian.png',
+    keywords: ['air', 'putih', 'mineral', 'bening', 'aqua', 'amdk', 'galon'],
+    kind: 'Makanan & minuman',
+    company: 'Danone',
+    company_img: 'https://images.bisnis.com/posts/2021/08/04/1425865/danone.jpg',
+    alternatives: [
+      {
+        name: 'Aslah',
+        image: 'https://images.tokopedia.net/img/cache/1200/BgtCLw/2022/5/27/f1cccfca-9d21-49fa-99b2-508c2a163c48.jpg.webp?ect=4g'
       },
       {
         name: 'Warih',
@@ -1148,7 +1182,7 @@ export default [
     alternatives: [
       {
         name: 'Aslah',
-        image: 'https://aslah.id/wp-content/uploads/2022/12/Aslah-removebg-preview.png'
+        image: 'https://images.tokopedia.net/img/cache/1200/BgtCLw/2022/5/27/f1cccfca-9d21-49fa-99b2-508c2a163c48.jpg.webp?ect=4g'
       },
       {
         name: 'Warih',
@@ -1182,7 +1216,7 @@ export default [
     alternatives: [
       {
         name: 'Aslah',
-        image: 'https://aslah.id/wp-content/uploads/2022/12/Aslah-removebg-preview.png'
+        image: 'https://images.tokopedia.net/img/cache/1200/BgtCLw/2022/5/27/f1cccfca-9d21-49fa-99b2-508c2a163c48.jpg.webp?ect=4g'
       },
       {
         name: 'Warih',
@@ -1456,7 +1490,7 @@ export default [
   },
   {
     name: 'Sariwangi',
-    image: 'https://ecommerce.svara.id/wp-content/uploads/2023/07/sari_wangi_teh_sariwangi_celup_isi_50_kantong_kotak_sari_wangi_full01_jutvc3wn.webp',
+    image: 'https://awsimages.detik.net.id/community/media/visual/2018/10/18/281df2c7-daa9-4b7d-925e-f894d91a07b0_169.png?w=620',
     keywords: ['tea', 'teh', 'kemasan', 'cepat saji'],
     kind: 'Makanan & minuman',
     company: 'Unilever',
@@ -1773,6 +1807,20 @@ export default [
     kind: 'Makanan & minuman',
     company: 'Mondelēz International',
     company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mondelez_International.svg/2880px-Mondelez_International.svg.png'
+  },
+  {
+    name: 'Snickers',
+    image: 'https://pics.walgreens.com/prodimg/468443/450.jpg',
+    keywords: ['coklat', 'kue', 'jajan', 'kacang'],
+    kind: 'Makanan & minuman',
+    company: 'Mars, Incorporatedl',
+    company_img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mars_Incorporated_2019_logo.svg/1280px-Mars_Incorporated_2019_logo.svg.png',
+    alternatives: [
+      {
+        name: 'Beng Beng',
+        image: 'https://singapore-s3.123ish.com/images/6752/original?1557296897'
+      }
+    ]
   },
   {
     name: 'Hadiklaim',
